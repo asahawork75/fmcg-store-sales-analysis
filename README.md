@@ -1,4 +1,4 @@
-# fmcg-Store-Sales-Analysis — SQL Project
+# FMCG-Store-Sales-Analysis — SQL Project
 
 > Exploratory data analysis of a 1,000-row FMCG (Fast-Moving Consumer Goods) retail dataset using MySQL. Uncovers revenue trends, top-performing products, regional order patterns, and company-level performance metrics.
 
