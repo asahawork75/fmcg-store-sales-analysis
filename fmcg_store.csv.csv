@@ -1,0 +1,1001 @@
+Company,Category,Subcategory,Region,Sales_Channel,Year,Revenue_USD_Million,Market_Share_%,Growth_%,Urban_Rural
+Colgate-Palmolive,Home Care,Ayurvedic Products,North,Online,2025,5433.96,13.04,10.26,Urban
+Godrej Consumer,Health Care,Oral Care,North,Online,2025,2120.3,9.61,10.57,Urban
+Hindustan Unilever,Health Care,Hair Oil,East,Offline,2023,5942.55,6.78,14.66,Urban
+Nestle India,Food & Beverages,Bakery,East,Offline,2024,2424.53,10.4,13.86,Urban
+ITC,Home Care,Noodles,West,Online,2022,1943.65,14.71,6.55,Urban
+ITC,Health Care,Noodles,West,Offline,2021,2632.67,4.77,14.78,Rural
+Colgate-Palmolive,Personal Care,Soap,West,Online,2020,2920.94,15.9,9.03,Rural
+ITC,Health Care,Shampoo,East,Offline,2025,726.17,19.09,10.42,Rural
+Patanjali,Home Care,Shampoo,East,Online,2021,954.12,4.92,5.11,Rural
+Hindustan Unilever,Personal Care,Noodles,North,Offline,2024,965.55,10.16,13.18,Rural
+Godrej Consumer,Food & Beverages,Beverages,North,Offline,2023,4950.14,1.79,11.07,Urban
+ITC,Food & Beverages,Soap,East,Online,2020,4456.19,11.29,12.84,Urban
+Marico,Home Care,Bakery,South,Offline,2024,1194.63,7.53,13.06,Rural
+Colgate-Palmolive,Home Care,Insecticides,South,Offline,2023,5782.61,15.26,14.18,Urban
+Marico,Home Care,Biscuits,South,Offline,2020,3560.91,8.85,6.57,Urban
+Godrej Consumer,Home Care,Hair Oil,North,Offline,2024,4304.73,9.42,4.32,Urban
+ITC,Health Care,Oral Care,West,Online,2022,4986.82,9.8,3.67,Rural
+Reliance Consumer,Personal Care,Ayurvedic Products,North,Online,2024,3403.67,3.43,14.94,Rural
+Marico,Health Care,Bakery,East,Offline,2025,1332.98,1.66,3.9,Urban
+Britannia,Food & Beverages,Ayurvedic Products,West,Offline,2024,5785.24,11.54,7.56,Urban
+Patanjali,Food & Beverages,Biscuits,South,Offline,2022,5863.32,19.83,12.91,Urban
+ITC,Health Care,Noodles,East,Online,2025,1782.67,14.27,5.42,Rural
+Patanjali,Food & Beverages,Noodles,North,Online,2022,625.26,10.48,12.47,Urban
+Marico,Home Care,Oral Care,West,Offline,2025,4870.5,7.85,13.66,Rural
+Marico,Personal Care,Ayurvedic Products,West,Online,2024,3356.34,13.56,12.33,Rural
+Hindustan Unilever,Personal Care,Soap,East,Offline,2025,1229.91,1.45,7.3,Urban
+Britannia,Health Care,Bakery,East,Online,2025,2931.41,8.32,8.66,Urban
+Britannia,Health Care,Oral Care,South,Online,2024,4059.93,2.38,14.95,Rural
+Reliance Consumer,Home Care,Beverages,South,Offline,2025,2187.37,14.6,10.06,Urban
+Colgate-Palmolive,Health Care,Beverages,North,Offline,2023,2068.36,6.28,14.45,Urban
+Colgate-Palmolive,Food & Beverages,Biscuits,North,Offline,2024,793.8,5.59,10.89,Rural
+ITC,Home Care,Bakery,East,Offline,2020,2805.33,4.84,8.22,Rural
+Marico,Health Care,Oral Care,West,Online,2020,2466.65,16.97,8.98,Urban
+Colgate-Palmolive,Health Care,Ayurvedic Products,West,Offline,2024,5632.15,18.7,12.36,Urban
+ITC,Personal Care,Soap,South,Offline,2022,4146.64,3.87,6.63,Urban
+ITC,Personal Care,Ayurvedic Products,West,Offline,2023,1627.39,4.99,10.41,Urban
+Nestle India,Food & Beverages,Shampoo,South,Offline,2023,4564.29,6.95,11.45,Rural
+Britannia,Personal Care,Ayurvedic Products,South,Online,2021,2290.47,17.27,14.46,Rural
+Marico,Personal Care,Insecticides,South,Offline,2022,3935.91,17.34,5.36,Urban
+Godrej Consumer,Food & Beverages,Soap,South,Offline,2021,3704.97,12.08,14.04,Urban
+Marico,Home Care,Soap,South,Online,2021,2042.38,4.57,6.05,Urban
+Britannia,Personal Care,Insecticides,North,Offline,2024,1468.76,17.06,10.43,Rural
+Dabur,Food & Beverages,Shampoo,North,Online,2022,2252.39,12.11,4.96,Urban
+Godrej Consumer,Home Care,Biscuits,North,Online,2021,5904.25,9.91,14.03,Rural
+Godrej Consumer,Home Care,Shampoo,West,Offline,2023,3063.94,9.48,8.11,Urban
+Reliance Consumer,Personal Care,Shampoo,North,Offline,2024,5740.93,10.85,6.61,Urban
+ITC,Food & Beverages,Biscuits,West,Offline,2021,5250.01,11.92,9.16,Rural
+Dabur,Health Care,Ayurvedic Products,South,Online,2022,4253.35,10.32,6.66,Urban
+ITC,Home Care,Hair Oil,North,Offline,2020,1980.05,3.18,4.35,Urban
+Reliance Consumer,Food & Beverages,Beverages,North,Online,2023,5632.65,6.17,13.17,Urban
+Britannia,Home Care,Biscuits,South,Offline,2021,3207.4,2.62,10.34,Rural
+Godrej Consumer,Food & Beverages,Bakery,East,Online,2021,1251.49,11.67,12.19,Urban
+Reliance Consumer,Health Care,Biscuits,West,Online,2020,2438.5,5.82,8.39,Rural
+Godrej Consumer,Personal Care,Bakery,South,Offline,2021,2822.22,14.52,7.7,Urban
+Patanjali,Home Care,Oral Care,East,Offline,2022,2014.04,13.14,9.26,Rural
+Britannia,Food & Beverages,Soap,West,Online,2020,3249.5,1.63,4.36,Urban
+Reliance Consumer,Food & Beverages,Oral Care,South,Offline,2021,4064.75,3.77,13.52,Urban
+Britannia,Personal Care,Ayurvedic Products,East,Online,2022,5338.79,13.65,4.64,Rural
+Reliance Consumer,Health Care,Shampoo,South,Online,2025,5567.51,19.71,6.31,Urban
+Marico,Health Care,Ayurvedic Products,West,Online,2023,5595.9,7.2,11.64,Rural
+Dabur,Personal Care,Hair Oil,West,Online,2022,1395.78,7.73,10.62,Rural
+Colgate-Palmolive,Health Care,Biscuits,South,Offline,2021,2471.11,2.71,9.59,Rural
+Dabur,Health Care,Insecticides,South,Offline,2024,830.63,15.94,4.86,Urban
+Britannia,Health Care,Oral Care,East,Offline,2024,5838.79,13.33,9.96,Rural
+Colgate-Palmolive,Personal Care,Insecticides,North,Offline,2022,1670.25,19.73,14.21,Urban
+Patanjali,Personal Care,Biscuits,North,Online,2024,4483.88,10.38,8.3,Urban
+Patanjali,Personal Care,Biscuits,West,Offline,2021,541.56,14.15,8.93,Rural
+Reliance Consumer,Home Care,Insecticides,North,Online,2025,1814.74,17.31,13.66,Rural
+Dabur,Home Care,Noodles,East,Online,2024,523.52,1.72,12.71,Urban
+ITC,Home Care,Oral Care,North,Offline,2025,3553.48,17.9,5.62,Urban
+Britannia,Food & Beverages,Biscuits,South,Online,2024,2795.82,16.67,3.1,Rural
+Godrej Consumer,Home Care,Oral Care,West,Online,2020,1404.1,19.88,10.14,Urban
+Patanjali,Food & Beverages,Beverages,West,Online,2021,5417.79,14.25,8.23,Rural
+Colgate-Palmolive,Food & Beverages,Soap,South,Online,2024,1595.65,2.45,14.85,Urban
+Marico,Food & Beverages,Insecticides,East,Online,2021,3299.6,13.69,5.85,Urban
+ITC,Food & Beverages,Noodles,West,Online,2023,3880.49,7.95,3.35,Urban
+Marico,Personal Care,Soap,South,Offline,2020,1911.08,6.32,6.93,Urban
+Dabur,Food & Beverages,Oral Care,South,Offline,2020,1658.76,13.48,7.46,Rural
+Patanjali,Food & Beverages,Oral Care,South,Online,2023,2561.91,7.2,4.26,Urban
+Marico,Personal Care,Bakery,West,Online,2023,2777.55,2.74,14.95,Urban
+Godrej Consumer,Food & Beverages,Bakery,North,Offline,2020,5348.41,4.12,6.06,Urban
+Dabur,Personal Care,Bakery,North,Online,2020,4996.63,3.62,3.59,Rural
+Britannia,Health Care,Soap,East,Online,2024,5322.91,3.93,9.7,Urban
+Godrej Consumer,Health Care,Beverages,North,Offline,2023,2170.33,10.57,13.79,Rural
+Colgate-Palmolive,Personal Care,Hair Oil,North,Online,2024,5466.32,8.37,11.56,Urban
+Patanjali,Personal Care,Insecticides,South,Online,2025,3750.65,5.76,13.54,Rural
+Marico,Food & Beverages,Bakery,North,Offline,2024,5955.41,13.58,9.78,Urban
+Britannia,Food & Beverages,Soap,West,Online,2020,2388.99,2.56,12.14,Urban
+Hindustan Unilever,Food & Beverages,Bakery,North,Offline,2025,1812.56,13.96,5.45,Urban
+ITC,Food & Beverages,Beverages,West,Online,2025,3250.34,8.08,9.68,Urban
+Reliance Consumer,Home Care,Soap,North,Offline,2022,3610.79,5.95,9.26,Urban
+Dabur,Food & Beverages,Insecticides,North,Offline,2023,566.28,19.44,3.21,Rural
+Britannia,Health Care,Bakery,East,Offline,2022,3679.66,11.54,7.96,Urban
+Marico,Personal Care,Biscuits,West,Online,2020,2972.76,1.31,7.78,Urban
+Colgate-Palmolive,Personal Care,Oral Care,West,Offline,2020,1162.35,15.94,7.01,Urban
+Hindustan Unilever,Home Care,Bakery,North,Online,2023,3172.2,17.08,9.73,Urban
+Hindustan Unilever,Health Care,Bakery,South,Offline,2021,926.61,6.51,14.39,Rural
+Nestle India,Home Care,Shampoo,West,Offline,2021,5812.14,2.11,12.76,Urban
+Hindustan Unilever,Food & Beverages,Ayurvedic Products,South,Offline,2025,2879.58,8.17,14.46,Urban
+Reliance Consumer,Home Care,Oral Care,East,Online,2020,4589.46,10.48,8.73,Rural
+Godrej Consumer,Food & Beverages,Ayurvedic Products,South,Online,2022,4206.82,4.3,4.53,Urban
+Colgate-Palmolive,Food & Beverages,Bakery,West,Online,2020,3190.33,5.59,10.23,Urban
+Godrej Consumer,Home Care,Beverages,West,Offline,2022,4083.93,16.03,13.42,Urban
+Reliance Consumer,Health Care,Oral Care,South,Offline,2022,3584.1,9.69,3.67,Rural
+Godrej Consumer,Personal Care,Oral Care,South,Online,2020,2460.0,5.24,9.12,Rural
+Colgate-Palmolive,Food & Beverages,Bakery,South,Online,2024,2032.72,13.35,9.47,Rural
+Reliance Consumer,Food & Beverages,Ayurvedic Products,East,Offline,2023,1779.33,12.84,9.25,Rural
+Nestle India,Personal Care,Noodles,East,Offline,2021,4295.74,12.49,5.76,Urban
+Colgate-Palmolive,Home Care,Bakery,North,Offline,2023,5131.12,1.73,5.08,Urban
+Dabur,Food & Beverages,Shampoo,West,Online,2023,1935.48,1.52,8.5,Rural
+Reliance Consumer,Home Care,Bakery,West,Offline,2020,3870.63,7.23,3.5,Urban
+Reliance Consumer,Home Care,Bakery,North,Online,2021,1385.48,3.11,9.21,Rural
+Marico,Home Care,Biscuits,South,Online,2024,938.28,2.78,11.09,Rural
+ITC,Health Care,Shampoo,North,Offline,2021,2039.23,10.12,11.17,Urban
+Godrej Consumer,Home Care,Beverages,North,Offline,2024,4499.22,14.36,3.79,Urban
+Hindustan Unilever,Home Care,Oral Care,East,Offline,2024,841.63,14.38,13.49,Urban
+ITC,Personal Care,Insecticides,East,Online,2022,4972.56,18.35,13.04,Rural
+Patanjali,Home Care,Shampoo,South,Online,2025,1978.56,13.88,9.46,Urban
+Godrej Consumer,Health Care,Noodles,West,Online,2025,637.36,3.65,13.18,Rural
+ITC,Home Care,Shampoo,South,Online,2022,5165.46,19.54,10.41,Rural
+Hindustan Unilever,Food & Beverages,Soap,West,Online,2023,3495.71,17.88,11.52,Urban
+Britannia,Home Care,Oral Care,West,Online,2024,2950.51,18.59,11.23,Rural
+Colgate-Palmolive,Health Care,Oral Care,South,Offline,2025,5212.03,9.4,11.52,Urban
+Nestle India,Personal Care,Hair Oil,West,Offline,2020,4254.58,17.59,7.08,Rural
+Patanjali,Health Care,Oral Care,West,Offline,2022,2277.73,7.91,6.5,Urban
+Hindustan Unilever,Home Care,Bakery,North,Offline,2024,1539.32,15.63,4.58,Rural
+Nestle India,Personal Care,Bakery,North,Offline,2022,2086.47,10.31,10.75,Rural
+Nestle India,Home Care,Noodles,East,Online,2020,2558.98,14.82,12.18,Urban
+Britannia,Home Care,Soap,North,Offline,2023,5365.72,1.58,7.85,Rural
+Britannia,Food & Beverages,Hair Oil,North,Online,2021,2679.77,13.41,7.95,Urban
+Dabur,Personal Care,Shampoo,South,Offline,2021,5285.77,3.69,3.83,Urban
+Reliance Consumer,Personal Care,Ayurvedic Products,South,Online,2021,5120.24,2.57,4.12,Urban
+Colgate-Palmolive,Food & Beverages,Bakery,West,Online,2024,2276.66,2.33,9.81,Rural
+Britannia,Health Care,Noodles,North,Online,2020,5696.64,19.52,5.55,Rural
+Patanjali,Personal Care,Soap,East,Offline,2020,5113.96,9.22,8.6,Rural
+Marico,Home Care,Biscuits,North,Offline,2021,619.16,18.14,3.25,Rural
+Patanjali,Personal Care,Bakery,West,Offline,2023,3596.98,17.26,13.03,Urban
+Godrej Consumer,Home Care,Noodles,South,Offline,2020,2677.96,2.3,3.01,Rural
+Reliance Consumer,Personal Care,Beverages,North,Online,2022,3828.51,13.04,9.07,Urban
+ITC,Personal Care,Insecticides,South,Online,2022,732.85,17.12,12.37,Urban
+Patanjali,Health Care,Hair Oil,East,Online,2021,5102.51,2.44,8.17,Rural
+Marico,Health Care,Ayurvedic Products,South,Online,2023,734.77,3.37,14.66,Rural
+Marico,Food & Beverages,Ayurvedic Products,South,Offline,2024,1601.8,19.02,8.52,Urban
+Britannia,Food & Beverages,Hair Oil,West,Online,2025,699.97,14.94,14.92,Rural
+Nestle India,Personal Care,Noodles,North,Online,2025,3003.26,3.0,7.99,Rural
+Nestle India,Home Care,Hair Oil,West,Online,2024,4094.9,19.19,3.66,Rural
+Patanjali,Personal Care,Hair Oil,West,Online,2021,5121.44,9.54,10.92,Rural
+Godrej Consumer,Health Care,Shampoo,West,Online,2025,5546.27,2.61,6.4,Urban
+Nestle India,Home Care,Shampoo,North,Online,2025,4918.73,3.4,13.76,Rural
+Dabur,Personal Care,Noodles,East,Offline,2020,1427.82,8.86,9.76,Rural
+Hindustan Unilever,Health Care,Noodles,South,Offline,2021,4987.49,19.65,3.3,Rural
+Dabur,Home Care,Hair Oil,East,Offline,2023,624.76,3.64,14.12,Rural
+Dabur,Personal Care,Soap,North,Online,2023,3297.36,11.88,10.4,Rural
+Hindustan Unilever,Health Care,Bakery,East,Offline,2020,1589.94,10.61,13.07,Rural
+Dabur,Personal Care,Shampoo,West,Online,2021,1242.48,1.47,13.08,Rural
+ITC,Home Care,Hair Oil,South,Online,2025,3846.78,9.2,12.41,Rural
+Britannia,Food & Beverages,Soap,East,Offline,2020,3201.66,4.99,12.36,Rural
+ITC,Health Care,Shampoo,South,Online,2024,3526.64,5.58,4.65,Rural
+Marico,Food & Beverages,Noodles,South,Offline,2020,4504.75,14.82,4.36,Urban
+ITC,Food & Beverages,Noodles,East,Online,2022,2724.9,2.82,13.89,Urban
+Britannia,Home Care,Beverages,North,Offline,2022,2729.92,5.35,12.58,Rural
+Reliance Consumer,Personal Care,Bakery,East,Offline,2024,3882.24,5.81,7.05,Urban
+Nestle India,Home Care,Bakery,East,Offline,2021,2248.15,5.48,12.61,Urban
+Colgate-Palmolive,Personal Care,Insecticides,North,Offline,2021,1229.57,1.79,14.82,Urban
+Patanjali,Personal Care,Noodles,North,Offline,2024,1141.06,4.81,7.96,Urban
+Godrej Consumer,Food & Beverages,Soap,East,Offline,2022,3957.58,13.3,5.77,Rural
+Hindustan Unilever,Health Care,Noodles,West,Online,2021,5125.02,7.18,13.5,Rural
+Reliance Consumer,Home Care,Beverages,West,Offline,2023,4978.46,2.56,13.68,Rural
+Patanjali,Home Care,Shampoo,South,Offline,2021,4883.32,13.88,11.49,Rural
+Nestle India,Home Care,Noodles,North,Online,2024,1970.25,13.7,14.91,Urban
+Godrej Consumer,Home Care,Bakery,North,Offline,2024,4071.35,8.19,3.24,Rural
+Dabur,Food & Beverages,Oral Care,East,Offline,2025,3954.4,13.98,5.03,Urban
+Colgate-Palmolive,Home Care,Oral Care,North,Online,2021,5781.63,18.1,12.04,Urban
+Colgate-Palmolive,Food & Beverages,Beverages,North,Online,2025,757.67,10.06,14.97,Urban
+ITC,Home Care,Hair Oil,South,Offline,2024,5051.49,2.1,10.91,Rural
+ITC,Food & Beverages,Ayurvedic Products,South,Online,2020,1053.92,8.58,10.62,Rural
+Britannia,Health Care,Soap,North,Online,2025,2761.48,7.75,10.23,Rural
+Dabur,Health Care,Ayurvedic Products,West,Offline,2021,3397.58,15.66,11.14,Urban
+ITC,Home Care,Hair Oil,West,Offline,2022,1879.97,1.52,9.8,Rural
+Reliance Consumer,Home Care,Beverages,East,Offline,2025,5603.06,16.34,14.48,Rural
+Reliance Consumer,Food & Beverages,Oral Care,East,Online,2024,1880.31,5.63,12.2,Urban
+ITC,Health Care,Ayurvedic Products,West,Offline,2024,1741.42,8.95,4.3,Rural
+Colgate-Palmolive,Personal Care,Beverages,East,Offline,2022,2463.91,8.39,14.28,Urban
+Patanjali,Health Care,Ayurvedic Products,East,Offline,2023,5077.22,13.08,3.96,Rural
+Godrej Consumer,Food & Beverages,Hair Oil,West,Online,2020,5297.17,13.42,13.99,Urban
+Patanjali,Home Care,Ayurvedic Products,South,Online,2020,1799.08,19.24,3.34,Urban
+Hindustan Unilever,Home Care,Noodles,West,Online,2025,4439.94,12.7,9.24,Urban
+Nestle India,Home Care,Bakery,West,Offline,2021,5374.26,6.46,12.19,Rural
+Colgate-Palmolive,Health Care,Noodles,South,Online,2020,3875.28,6.67,7.49,Urban
+Reliance Consumer,Food & Beverages,Insecticides,West,Online,2025,3626.27,14.09,3.02,Rural
+Godrej Consumer,Health Care,Beverages,North,Offline,2022,5394.06,9.08,14.29,Urban
+ITC,Food & Beverages,Hair Oil,West,Offline,2024,5609.68,7.19,11.23,Rural
+Marico,Health Care,Ayurvedic Products,East,Offline,2020,4765.94,16.56,6.61,Urban
+Reliance Consumer,Home Care,Shampoo,North,Offline,2025,996.82,4.97,8.99,Urban
+Godrej Consumer,Home Care,Oral Care,East,Offline,2025,5824.5,10.25,12.62,Urban
+Hindustan Unilever,Health Care,Shampoo,North,Online,2023,3028.87,16.81,14.73,Urban
+Godrej Consumer,Personal Care,Insecticides,West,Online,2023,675.46,15.6,12.51,Urban
+ITC,Home Care,Insecticides,West,Offline,2020,5358.19,16.43,10.09,Urban
+Colgate-Palmolive,Food & Beverages,Soap,North,Online,2020,4631.55,11.78,4.0,Urban
+Dabur,Home Care,Noodles,South,Online,2024,3894.37,2.82,8.36,Rural
+Dabur,Food & Beverages,Noodles,South,Offline,2023,1809.48,6.16,6.56,Urban
+Hindustan Unilever,Health Care,Bakery,North,Offline,2023,4085.98,16.9,4.88,Urban
+Hindustan Unilever,Food & Beverages,Biscuits,West,Online,2020,5464.79,13.07,4.0,Rural
+ITC,Home Care,Biscuits,East,Offline,2020,5274.09,8.5,13.47,Urban
+Marico,Food & Beverages,Shampoo,South,Online,2020,1526.15,12.67,13.65,Rural
+Patanjali,Home Care,Noodles,South,Offline,2025,2905.21,7.33,4.76,Rural
+Dabur,Food & Beverages,Soap,East,Online,2020,5399.42,1.57,10.85,Rural
+Hindustan Unilever,Personal Care,Ayurvedic Products,North,Online,2020,1739.46,2.89,7.58,Urban
+Britannia,Personal Care,Ayurvedic Products,West,Offline,2023,2533.17,3.2,5.05,Urban
+ITC,Health Care,Ayurvedic Products,North,Online,2020,4130.81,3.17,7.5,Urban
+Britannia,Food & Beverages,Beverages,North,Online,2021,3554.35,11.19,14.47,Rural
+Colgate-Palmolive,Home Care,Noodles,South,Offline,2025,1033.1,1.73,3.73,Urban
+Reliance Consumer,Home Care,Shampoo,East,Online,2022,5196.06,13.9,9.14,Urban
+Nestle India,Health Care,Oral Care,West,Online,2022,4896.63,10.43,14.79,Rural
+Patanjali,Personal Care,Oral Care,South,Online,2022,545.52,6.66,10.45,Urban
+Nestle India,Personal Care,Beverages,East,Online,2022,1221.25,12.17,6.98,Urban
+Colgate-Palmolive,Health Care,Ayurvedic Products,North,Offline,2020,5476.7,19.42,5.87,Urban
+Dabur,Health Care,Shampoo,South,Offline,2024,3517.12,6.18,4.69,Rural
+Britannia,Food & Beverages,Insecticides,West,Online,2023,3198.92,12.21,13.05,Urban
+Reliance Consumer,Food & Beverages,Soap,West,Offline,2021,4030.27,11.69,10.77,Rural
+Patanjali,Health Care,Noodles,West,Online,2025,3131.99,17.58,13.71,Rural
+Godrej Consumer,Health Care,Hair Oil,East,Online,2021,3972.57,1.7,11.31,Rural
+ITC,Home Care,Shampoo,East,Online,2023,4936.93,6.61,10.16,Urban
+Reliance Consumer,Food & Beverages,Soap,North,Online,2021,1978.92,14.74,11.57,Urban
+Britannia,Personal Care,Biscuits,South,Offline,2023,4662.89,12.61,14.92,Urban
+Britannia,Health Care,Insecticides,North,Online,2024,1966.06,7.53,9.67,Rural
+Nestle India,Home Care,Insecticides,North,Online,2025,4377.96,11.8,10.59,Urban
+Dabur,Personal Care,Soap,East,Offline,2023,5756.7,8.41,5.09,Urban
+Patanjali,Food & Beverages,Bakery,North,Offline,2021,5716.34,4.02,6.53,Urban
+Marico,Personal Care,Biscuits,North,Offline,2023,892.35,14.02,14.69,Rural
+Dabur,Home Care,Noodles,East,Offline,2025,646.19,2.01,5.93,Urban
+Godrej Consumer,Personal Care,Hair Oil,East,Offline,2024,3467.52,4.51,14.3,Urban
+Hindustan Unilever,Home Care,Noodles,South,Offline,2025,5112.06,14.72,9.86,Urban
+Colgate-Palmolive,Health Care,Insecticides,North,Offline,2025,4362.26,1.09,9.32,Rural
+Marico,Personal Care,Hair Oil,South,Online,2022,4565.17,14.98,7.63,Urban
+Nestle India,Food & Beverages,Beverages,North,Offline,2025,4927.69,1.17,13.42,Urban
+Marico,Health Care,Ayurvedic Products,North,Online,2024,3219.38,3.08,12.31,Rural
+ITC,Personal Care,Insecticides,East,Offline,2022,5765.52,3.67,9.13,Urban
+Marico,Personal Care,Ayurvedic Products,South,Offline,2021,3543.63,2.54,6.97,Urban
+Godrej Consumer,Home Care,Noodles,West,Online,2022,557.44,6.83,11.71,Rural
+Godrej Consumer,Food & Beverages,Bakery,North,Offline,2023,5366.54,4.47,6.38,Urban
+Marico,Personal Care,Biscuits,South,Offline,2023,4786.9,6.66,13.48,Urban
+Patanjali,Health Care,Bakery,West,Online,2023,2063.68,6.43,9.97,Urban
+Nestle India,Food & Beverages,Shampoo,East,Online,2021,1193.98,12.55,3.21,Urban
+Nestle India,Health Care,Biscuits,South,Offline,2024,771.65,4.51,6.1,Urban
+Godrej Consumer,Health Care,Oral Care,North,Online,2020,1285.47,17.94,9.72,Urban
+Britannia,Health Care,Oral Care,West,Offline,2020,854.06,8.4,7.75,Urban
+Marico,Health Care,Shampoo,North,Offline,2023,1822.59,1.91,11.99,Rural
+Colgate-Palmolive,Home Care,Biscuits,East,Offline,2020,1829.11,10.91,10.23,Urban
+Godrej Consumer,Food & Beverages,Bakery,East,Offline,2025,3401.47,4.46,13.85,Urban
+Hindustan Unilever,Health Care,Biscuits,North,Offline,2024,1007.86,19.15,8.28,Urban
+Reliance Consumer,Health Care,Noodles,North,Online,2025,2399.23,15.14,6.37,Urban
+ITC,Health Care,Noodles,North,Offline,2023,3946.96,16.7,7.85,Rural
+Nestle India,Home Care,Noodles,East,Online,2022,1332.38,15.06,6.53,Urban
+Godrej Consumer,Food & Beverages,Hair Oil,South,Online,2025,3342.29,1.62,13.35,Rural
+Dabur,Food & Beverages,Noodles,West,Online,2022,2909.95,11.68,9.54,Rural
+ITC,Personal Care,Shampoo,East,Offline,2024,3089.45,1.02,5.5,Urban
+Dabur,Health Care,Oral Care,South,Online,2022,2243.24,1.16,3.16,Urban
+Hindustan Unilever,Personal Care,Oral Care,East,Online,2023,1271.92,15.84,12.03,Urban
+Patanjali,Home Care,Ayurvedic Products,South,Online,2023,800.15,9.91,10.38,Rural
+Godrej Consumer,Personal Care,Bakery,East,Offline,2022,3477.69,4.52,3.42,Rural
+Reliance Consumer,Food & Beverages,Hair Oil,North,Online,2025,5127.92,7.88,11.26,Rural
+Patanjali,Health Care,Beverages,South,Offline,2023,2804.94,9.99,13.46,Rural
+Patanjali,Health Care,Noodles,West,Online,2023,4196.08,11.25,8.78,Urban
+Hindustan Unilever,Health Care,Oral Care,East,Offline,2023,3042.63,15.08,9.83,Urban
+Patanjali,Health Care,Hair Oil,East,Offline,2021,2684.69,5.22,7.19,Rural
+Dabur,Home Care,Ayurvedic Products,South,Offline,2024,3325.24,9.96,6.46,Urban
+ITC,Personal Care,Insecticides,North,Offline,2021,1150.18,5.5,14.48,Urban
+Godrej Consumer,Health Care,Soap,West,Offline,2025,5159.65,15.36,13.87,Urban
+Dabur,Food & Beverages,Shampoo,East,Online,2023,5387.55,7.2,5.8,Urban
+ITC,Personal Care,Biscuits,North,Offline,2021,4426.78,17.29,9.43,Rural
+Colgate-Palmolive,Home Care,Noodles,North,Online,2021,1774.4,3.66,14.51,Urban
+Godrej Consumer,Health Care,Shampoo,North,Online,2024,4689.58,10.74,11.58,Urban
+Hindustan Unilever,Food & Beverages,Shampoo,West,Online,2022,969.66,4.95,9.72,Rural
+Godrej Consumer,Home Care,Shampoo,East,Online,2023,1715.06,1.99,4.15,Rural
+Marico,Home Care,Hair Oil,West,Offline,2022,4669.75,15.51,8.0,Urban
+Nestle India,Home Care,Biscuits,West,Online,2024,4202.44,14.3,7.05,Urban
+Marico,Health Care,Ayurvedic Products,West,Offline,2022,4467.41,17.4,7.34,Urban
+Patanjali,Personal Care,Shampoo,East,Online,2022,2457.45,13.76,13.27,Rural
+Nestle India,Personal Care,Bakery,South,Online,2024,4400.69,3.02,14.57,Rural
+Godrej Consumer,Health Care,Beverages,West,Offline,2021,4693.06,10.97,7.84,Urban
+Marico,Food & Beverages,Shampoo,South,Offline,2021,1457.87,5.2,13.56,Urban
+Colgate-Palmolive,Food & Beverages,Insecticides,East,Online,2023,1310.63,11.79,11.98,Urban
+Marico,Food & Beverages,Ayurvedic Products,North,Online,2024,2727.91,1.86,13.59,Urban
+Nestle India,Personal Care,Insecticides,East,Offline,2023,1421.28,18.17,9.31,Rural
+Hindustan Unilever,Food & Beverages,Insecticides,West,Offline,2023,4556.92,18.04,14.01,Urban
+Marico,Health Care,Beverages,West,Online,2021,1693.26,5.02,6.3,Rural
+ITC,Food & Beverages,Biscuits,West,Online,2022,2449.39,9.52,13.42,Urban
+Britannia,Home Care,Beverages,North,Offline,2023,1138.0,4.76,13.88,Rural
+Patanjali,Personal Care,Biscuits,West,Online,2020,633.79,6.5,3.92,Urban
+Dabur,Personal Care,Hair Oil,West,Offline,2024,638.46,12.35,11.16,Rural
+Godrej Consumer,Food & Beverages,Hair Oil,North,Offline,2021,992.5,13.65,3.62,Urban
+Nestle India,Food & Beverages,Shampoo,West,Offline,2021,4906.42,1.38,7.17,Rural
+Dabur,Personal Care,Oral Care,South,Offline,2024,4877.29,13.06,3.06,Urban
+Britannia,Home Care,Ayurvedic Products,West,Offline,2025,1817.28,17.85,14.52,Rural
+Marico,Personal Care,Bakery,West,Online,2023,4023.07,5.74,14.59,Rural
+Patanjali,Personal Care,Noodles,North,Online,2025,1232.72,15.15,6.93,Rural
+Hindustan Unilever,Health Care,Shampoo,West,Offline,2025,680.7,3.12,6.6,Urban
+Colgate-Palmolive,Health Care,Soap,North,Online,2024,844.07,12.4,13.68,Rural
+Colgate-Palmolive,Personal Care,Soap,North,Offline,2023,4446.02,7.3,4.68,Rural
+Marico,Health Care,Biscuits,West,Online,2021,2974.68,15.33,5.33,Rural
+Reliance Consumer,Food & Beverages,Bakery,South,Online,2023,3389.64,15.7,6.39,Urban
+Godrej Consumer,Health Care,Soap,East,Online,2022,2706.69,15.99,13.62,Urban
+Nestle India,Health Care,Soap,West,Offline,2025,678.92,13.98,7.61,Rural
+Nestle India,Home Care,Noodles,East,Offline,2023,1168.78,11.55,5.91,Rural
+Britannia,Personal Care,Biscuits,South,Offline,2023,5212.8,13.52,7.52,Rural
+Patanjali,Home Care,Shampoo,West,Offline,2025,4563.99,13.14,5.65,Rural
+Dabur,Health Care,Oral Care,East,Offline,2022,5040.39,10.61,10.29,Rural
+Godrej Consumer,Personal Care,Hair Oil,West,Offline,2021,3760.9,12.33,12.38,Rural
+Patanjali,Personal Care,Insecticides,North,Online,2023,3700.35,16.6,10.26,Urban
+Britannia,Personal Care,Shampoo,South,Online,2023,2948.98,15.69,5.89,Rural
+Colgate-Palmolive,Food & Beverages,Soap,West,Online,2021,1448.66,7.51,7.27,Urban
+Nestle India,Home Care,Soap,North,Online,2021,5294.92,6.7,14.63,Urban
+Colgate-Palmolive,Health Care,Shampoo,East,Online,2022,3297.84,19.0,12.48,Rural
+Colgate-Palmolive,Home Care,Beverages,South,Online,2022,2724.21,2.18,3.94,Urban
+Reliance Consumer,Personal Care,Bakery,West,Online,2025,2005.76,8.97,14.27,Rural
+Godrej Consumer,Health Care,Ayurvedic Products,East,Online,2023,1071.88,15.44,3.25,Rural
+Colgate-Palmolive,Home Care,Oral Care,North,Offline,2025,4971.73,16.88,5.08,Rural
+Colgate-Palmolive,Food & Beverages,Biscuits,East,Offline,2020,5334.9,9.49,12.96,Urban
+Reliance Consumer,Food & Beverages,Hair Oil,West,Offline,2025,2646.05,14.75,10.87,Rural
+Britannia,Health Care,Biscuits,West,Offline,2023,3577.87,10.86,3.14,Rural
+Reliance Consumer,Home Care,Ayurvedic Products,South,Online,2020,5111.91,6.62,6.44,Urban
+Colgate-Palmolive,Personal Care,Oral Care,East,Offline,2021,3294.86,6.09,13.05,Urban
+Britannia,Personal Care,Biscuits,South,Online,2023,4233.3,3.49,4.21,Urban
+Patanjali,Home Care,Beverages,West,Offline,2025,5385.08,16.59,12.95,Rural
+Britannia,Food & Beverages,Beverages,East,Offline,2020,2369.5,16.63,10.69,Urban
+ITC,Health Care,Hair Oil,West,Online,2023,4543.03,19.54,5.87,Rural
+Nestle India,Home Care,Oral Care,East,Offline,2020,894.73,1.29,3.17,Rural
+Reliance Consumer,Home Care,Noodles,North,Offline,2020,5837.2,7.78,8.86,Urban
+Patanjali,Food & Beverages,Insecticides,South,Offline,2025,4414.44,2.39,10.69,Rural
+Britannia,Personal Care,Oral Care,North,Online,2020,5007.89,1.85,14.63,Urban
+ITC,Health Care,Biscuits,North,Online,2021,4989.04,11.99,14.03,Urban
+Reliance Consumer,Food & Beverages,Bakery,North,Offline,2022,1842.64,18.63,6.67,Rural
+Patanjali,Personal Care,Soap,West,Offline,2020,3700.76,8.29,11.02,Urban
+Britannia,Home Care,Beverages,South,Offline,2025,1429.7,5.79,11.64,Urban
+Marico,Health Care,Insecticides,South,Offline,2020,1401.63,14.82,12.8,Rural
+Hindustan Unilever,Food & Beverages,Noodles,East,Offline,2023,689.68,11.21,5.01,Rural
+Marico,Health Care,Soap,West,Online,2021,4550.79,7.62,14.91,Urban
+Colgate-Palmolive,Home Care,Biscuits,South,Online,2022,2541.07,2.91,14.3,Urban
+ITC,Personal Care,Shampoo,South,Online,2025,2417.99,16.94,4.32,Urban
+Marico,Health Care,Biscuits,South,Offline,2025,5089.76,12.25,14.36,Urban
+Colgate-Palmolive,Food & Beverages,Soap,East,Offline,2023,4113.74,15.5,11.47,Rural
+Nestle India,Home Care,Beverages,South,Offline,2023,1286.12,6.43,3.73,Urban
+Britannia,Food & Beverages,Hair Oil,North,Offline,2022,1144.58,5.69,11.76,Urban
+Marico,Food & Beverages,Oral Care,South,Online,2020,721.86,9.14,10.22,Urban
+Dabur,Personal Care,Oral Care,South,Offline,2020,3636.79,15.9,5.56,Rural
+Britannia,Home Care,Oral Care,North,Offline,2024,1246.7,7.79,8.34,Rural
+Nestle India,Personal Care,Biscuits,East,Online,2022,4601.03,5.54,9.51,Rural
+Dabur,Health Care,Ayurvedic Products,West,Offline,2021,3113.87,3.89,5.82,Urban
+Colgate-Palmolive,Personal Care,Biscuits,West,Offline,2022,5424.42,10.97,4.53,Rural
+Hindustan Unilever,Home Care,Soap,East,Online,2023,1672.96,11.08,5.41,Urban
+Marico,Personal Care,Oral Care,South,Offline,2020,636.46,11.86,10.37,Urban
+Britannia,Food & Beverages,Soap,East,Online,2023,5361.09,4.29,13.5,Urban
+Dabur,Food & Beverages,Oral Care,North,Online,2024,5334.31,11.13,10.17,Rural
+Hindustan Unilever,Food & Beverages,Noodles,South,Offline,2020,2879.18,4.74,9.75,Rural
+Colgate-Palmolive,Health Care,Noodles,South,Offline,2020,630.14,11.17,9.62,Rural
+Patanjali,Food & Beverages,Noodles,East,Online,2024,969.16,13.97,13.05,Rural
+Marico,Food & Beverages,Ayurvedic Products,South,Online,2023,5917.37,4.22,3.48,Urban
+Marico,Home Care,Noodles,East,Offline,2024,5450.8,12.02,11.77,Rural
+Nestle India,Health Care,Bakery,South,Offline,2021,2448.4,19.86,12.08,Urban
+ITC,Home Care,Shampoo,East,Offline,2025,1771.95,8.87,8.56,Urban
+Britannia,Food & Beverages,Bakery,North,Online,2020,2827.92,6.4,12.91,Rural
+ITC,Food & Beverages,Biscuits,East,Online,2025,5637.94,12.46,6.36,Rural
+ITC,Health Care,Ayurvedic Products,West,Online,2023,5768.41,5.21,4.4,Rural
+Dabur,Health Care,Shampoo,South,Online,2024,1510.59,16.63,14.05,Rural
+Marico,Health Care,Shampoo,East,Online,2021,528.41,5.17,13.53,Urban
+Dabur,Food & Beverages,Noodles,North,Online,2020,5606.92,7.21,10.12,Rural
+ITC,Personal Care,Hair Oil,South,Offline,2023,2546.19,6.84,12.87,Urban
+Hindustan Unilever,Health Care,Insecticides,North,Offline,2025,3380.62,2.27,14.41,Urban
+Colgate-Palmolive,Personal Care,Hair Oil,South,Online,2020,4289.27,11.44,13.53,Rural
+Dabur,Food & Beverages,Soap,South,Offline,2021,4602.72,9.45,5.41,Urban
+ITC,Home Care,Biscuits,East,Offline,2025,2235.09,16.31,12.29,Urban
+Marico,Personal Care,Noodles,East,Offline,2023,5642.7,15.08,10.6,Rural
+Nestle India,Home Care,Bakery,North,Online,2021,3376.7,4.25,9.14,Rural
+Patanjali,Food & Beverages,Shampoo,East,Offline,2025,1652.14,8.12,4.34,Rural
+Patanjali,Food & Beverages,Bakery,South,Online,2020,3249.48,10.97,3.59,Urban
+Patanjali,Food & Beverages,Ayurvedic Products,North,Online,2024,4527.43,5.83,7.19,Urban
+Godrej Consumer,Food & Beverages,Hair Oil,East,Offline,2025,4102.95,18.6,5.63,Urban
+Marico,Health Care,Beverages,West,Online,2022,5584.29,12.95,13.37,Rural
+Hindustan Unilever,Personal Care,Soap,East,Online,2023,2020.71,12.29,8.4,Rural
+Dabur,Personal Care,Noodles,West,Offline,2022,5926.79,15.1,7.03,Rural
+Colgate-Palmolive,Personal Care,Biscuits,North,Online,2023,3909.83,10.12,7.59,Rural
+Britannia,Health Care,Insecticides,North,Online,2020,3392.71,10.61,6.2,Rural
+Godrej Consumer,Health Care,Noodles,West,Offline,2021,3550.92,17.88,10.46,Urban
+Marico,Personal Care,Insecticides,East,Offline,2025,761.68,7.05,8.43,Rural
+Nestle India,Personal Care,Soap,East,Offline,2023,5871.1,7.47,10.15,Rural
+Nestle India,Health Care,Oral Care,East,Offline,2023,2535.53,2.34,7.27,Rural
+Colgate-Palmolive,Personal Care,Ayurvedic Products,West,Offline,2022,2995.05,16.56,7.1,Rural
+Dabur,Food & Beverages,Shampoo,West,Online,2020,3638.7,1.7,12.52,Rural
+Dabur,Home Care,Soap,North,Offline,2024,5398.4,18.01,4.96,Rural
+Reliance Consumer,Food & Beverages,Beverages,West,Offline,2020,1196.33,2.27,11.33,Urban
+Marico,Food & Beverages,Noodles,West,Offline,2021,5631.41,10.29,4.75,Rural
+Colgate-Palmolive,Personal Care,Noodles,North,Offline,2023,1770.12,16.46,7.24,Urban
+Reliance Consumer,Food & Beverages,Shampoo,North,Online,2021,5940.39,12.02,10.89,Urban
+Hindustan Unilever,Food & Beverages,Shampoo,East,Online,2024,2435.28,15.2,8.83,Rural
+Patanjali,Personal Care,Bakery,West,Online,2024,5270.26,16.85,13.22,Rural
+Dabur,Food & Beverages,Noodles,North,Offline,2021,607.52,9.76,8.96,Urban
+Britannia,Health Care,Shampoo,South,Offline,2024,5897.81,2.04,3.82,Urban
+Dabur,Personal Care,Bakery,South,Offline,2023,3605.75,18.54,4.81,Rural
+Nestle India,Home Care,Noodles,North,Offline,2025,5441.93,13.99,5.88,Rural
+Nestle India,Health Care,Biscuits,South,Online,2025,5151.0,1.68,8.22,Urban
+Dabur,Health Care,Soap,North,Offline,2023,2022.92,15.53,6.6,Rural
+Nestle India,Home Care,Beverages,South,Online,2023,1563.83,12.12,3.32,Urban
+Britannia,Health Care,Bakery,South,Online,2024,2792.54,1.46,6.0,Urban
+Marico,Health Care,Insecticides,West,Offline,2023,4566.58,5.76,14.9,Rural
+Hindustan Unilever,Food & Beverages,Bakery,West,Offline,2025,4073.65,4.42,9.7,Urban
+Colgate-Palmolive,Personal Care,Shampoo,East,Online,2023,604.96,6.48,8.03,Rural
+Reliance Consumer,Personal Care,Biscuits,South,Online,2024,1659.37,5.94,3.49,Urban
+Britannia,Home Care,Beverages,South,Online,2024,2550.46,13.14,13.6,Rural
+Reliance Consumer,Health Care,Oral Care,West,Offline,2023,801.13,16.37,7.4,Rural
+Hindustan Unilever,Home Care,Hair Oil,West,Online,2023,4370.0,9.98,14.11,Urban
+Hindustan Unilever,Personal Care,Soap,North,Offline,2020,4866.79,5.12,7.01,Rural
+Britannia,Personal Care,Shampoo,West,Offline,2023,3387.05,16.86,10.09,Urban
+Nestle India,Personal Care,Shampoo,West,Offline,2025,4342.12,15.11,9.37,Urban
+Colgate-Palmolive,Personal Care,Ayurvedic Products,West,Offline,2023,5100.99,13.31,5.48,Urban
+Colgate-Palmolive,Health Care,Insecticides,North,Online,2023,4077.28,9.03,5.75,Rural
+Patanjali,Home Care,Bakery,North,Online,2024,1650.73,1.88,12.0,Rural
+Britannia,Food & Beverages,Hair Oil,West,Online,2022,3996.23,13.8,10.87,Rural
+Godrej Consumer,Personal Care,Biscuits,West,Offline,2025,943.16,4.41,4.26,Rural
+Hindustan Unilever,Personal Care,Biscuits,North,Offline,2025,4983.58,18.11,5.35,Urban
+Marico,Health Care,Oral Care,West,Online,2023,2705.12,16.6,11.47,Urban
+Nestle India,Health Care,Bakery,West,Offline,2025,5896.83,14.92,14.71,Rural
+Marico,Personal Care,Beverages,South,Offline,2021,5698.9,18.05,7.26,Rural
+Reliance Consumer,Health Care,Hair Oil,West,Online,2022,3234.49,4.4,5.44,Urban
+Reliance Consumer,Home Care,Biscuits,West,Online,2023,614.26,1.68,6.17,Urban
+ITC,Health Care,Bakery,West,Offline,2025,1915.92,8.84,10.9,Urban
+Reliance Consumer,Home Care,Biscuits,South,Offline,2023,3864.04,6.04,14.75,Rural
+Reliance Consumer,Food & Beverages,Noodles,East,Online,2022,1326.03,6.01,7.44,Rural
+Colgate-Palmolive,Health Care,Hair Oil,East,Offline,2025,2973.17,3.8,4.42,Rural
+Patanjali,Personal Care,Ayurvedic Products,West,Online,2023,3947.19,4.45,11.13,Urban
+Nestle India,Home Care,Shampoo,North,Online,2020,5142.09,6.95,4.4,Urban
+Britannia,Home Care,Noodles,South,Offline,2020,677.5,7.77,11.98,Urban
+Reliance Consumer,Personal Care,Bakery,East,Online,2020,3459.58,12.67,9.88,Rural
+Marico,Food & Beverages,Beverages,North,Online,2023,2386.29,18.88,9.33,Urban
+Marico,Personal Care,Noodles,West,Offline,2022,3624.02,15.08,10.15,Rural
+Patanjali,Personal Care,Soap,West,Online,2021,995.22,17.36,6.14,Rural
+Nestle India,Home Care,Soap,East,Offline,2021,1446.49,11.42,9.41,Urban
+Reliance Consumer,Home Care,Shampoo,South,Online,2022,5968.95,11.39,13.07,Urban
+Britannia,Food & Beverages,Insecticides,East,Offline,2022,3046.2,5.79,9.84,Urban
+Dabur,Home Care,Biscuits,North,Offline,2024,1122.53,10.05,7.41,Urban
+Britannia,Health Care,Bakery,South,Online,2022,3057.65,11.59,13.96,Urban
+Godrej Consumer,Personal Care,Bakery,South,Offline,2022,2428.06,13.83,8.08,Urban
+Reliance Consumer,Food & Beverages,Hair Oil,North,Offline,2021,4661.84,9.82,12.61,Urban
+Colgate-Palmolive,Personal Care,Bakery,East,Online,2020,3246.63,3.84,4.65,Urban
+Godrej Consumer,Personal Care,Noodles,West,Offline,2020,3802.42,4.36,3.67,Rural
+Marico,Home Care,Shampoo,North,Online,2020,5210.89,12.99,8.27,Rural
+ITC,Personal Care,Insecticides,East,Online,2025,5800.38,18.77,6.52,Urban
+Dabur,Home Care,Soap,South,Offline,2025,886.4,14.34,10.51,Urban
+Colgate-Palmolive,Home Care,Insecticides,South,Offline,2025,2895.9,18.63,10.09,Rural
+Hindustan Unilever,Home Care,Soap,West,Offline,2021,5935.03,3.37,6.36,Urban
+Godrej Consumer,Food & Beverages,Insecticides,West,Online,2023,1646.94,14.97,9.0,Urban
+Colgate-Palmolive,Health Care,Noodles,East,Offline,2021,3069.63,13.68,12.81,Rural
+Marico,Home Care,Insecticides,North,Offline,2021,4259.26,19.1,6.0,Urban
+Patanjali,Home Care,Hair Oil,South,Online,2024,1037.75,10.74,3.3,Rural
+Marico,Food & Beverages,Oral Care,West,Offline,2023,1988.73,5.33,6.36,Urban
+Patanjali,Health Care,Noodles,East,Offline,2023,2874.41,4.17,13.79,Urban
+Reliance Consumer,Food & Beverages,Noodles,East,Online,2022,1298.27,4.9,3.88,Urban
+Britannia,Home Care,Ayurvedic Products,West,Offline,2023,4997.14,16.53,6.72,Rural
+Britannia,Food & Beverages,Oral Care,East,Offline,2023,1736.33,15.85,6.91,Rural
+Hindustan Unilever,Health Care,Insecticides,North,Online,2021,5403.56,12.97,13.1,Rural
+Britannia,Food & Beverages,Ayurvedic Products,East,Offline,2020,3752.23,2.45,5.36,Rural
+ITC,Home Care,Beverages,North,Offline,2023,1769.62,10.96,4.96,Rural
+Britannia,Health Care,Oral Care,North,Online,2025,3450.54,14.17,12.17,Rural
+ITC,Health Care,Noodles,South,Online,2023,1159.8,11.25,13.74,Rural
+Reliance Consumer,Food & Beverages,Insecticides,North,Offline,2020,5338.24,15.71,6.68,Urban
+Colgate-Palmolive,Personal Care,Biscuits,South,Offline,2021,4704.62,7.14,5.53,Urban
+Reliance Consumer,Food & Beverages,Hair Oil,South,Offline,2023,1304.96,1.03,3.39,Urban
+Britannia,Food & Beverages,Shampoo,East,Offline,2023,5156.22,7.85,4.07,Urban
+Dabur,Personal Care,Ayurvedic Products,South,Offline,2020,5648.41,12.17,14.44,Urban
+Reliance Consumer,Health Care,Soap,North,Offline,2022,2854.41,11.26,3.43,Urban
+Colgate-Palmolive,Home Care,Shampoo,South,Offline,2024,3774.57,11.25,10.31,Rural
+Godrej Consumer,Food & Beverages,Ayurvedic Products,East,Offline,2025,4440.28,5.76,13.28,Urban
+ITC,Food & Beverages,Insecticides,West,Online,2024,1994.3,4.17,14.94,Rural
+Britannia,Food & Beverages,Beverages,West,Online,2024,709.85,15.92,4.81,Urban
+Colgate-Palmolive,Personal Care,Hair Oil,South,Online,2025,2741.14,10.32,8.46,Rural
+Britannia,Health Care,Oral Care,West,Offline,2020,1383.24,3.81,4.81,Rural
+Marico,Personal Care,Soap,North,Online,2020,941.84,16.5,9.67,Urban
+Patanjali,Health Care,Beverages,West,Online,2022,2198.04,14.54,3.15,Rural
+Godrej Consumer,Personal Care,Biscuits,North,Online,2022,2419.93,16.8,10.21,Urban
+Godrej Consumer,Home Care,Soap,South,Online,2024,3704.14,10.31,5.89,Urban
+Dabur,Food & Beverages,Shampoo,North,Offline,2023,3972.61,7.36,3.15,Urban
+Nestle India,Home Care,Insecticides,West,Offline,2020,5128.0,16.5,5.87,Urban
+Dabur,Personal Care,Soap,North,Offline,2025,1242.09,9.7,8.77,Rural
+Marico,Food & Beverages,Insecticides,South,Offline,2020,4112.04,4.9,5.7,Urban
+Hindustan Unilever,Home Care,Bakery,North,Offline,2021,3482.53,8.68,3.34,Rural
+ITC,Home Care,Insecticides,South,Offline,2022,4818.61,17.56,10.34,Urban
+Britannia,Personal Care,Biscuits,North,Online,2022,1546.04,3.77,11.59,Rural
+Colgate-Palmolive,Home Care,Hair Oil,West,Offline,2023,1914.03,16.64,8.29,Urban
+Patanjali,Health Care,Ayurvedic Products,East,Online,2020,1205.41,17.88,8.46,Rural
+Reliance Consumer,Home Care,Hair Oil,East,Offline,2023,2142.65,15.38,3.52,Urban
+Colgate-Palmolive,Personal Care,Bakery,North,Offline,2023,4134.07,18.21,7.97,Urban
+Hindustan Unilever,Health Care,Bakery,West,Offline,2022,5174.72,17.41,12.69,Urban
+Godrej Consumer,Personal Care,Ayurvedic Products,West,Online,2025,3316.67,1.23,4.09,Urban
+Marico,Home Care,Bakery,South,Online,2022,2678.8,1.16,8.63,Urban
+Marico,Food & Beverages,Ayurvedic Products,East,Online,2021,1884.6,14.4,3.59,Rural
+Dabur,Health Care,Biscuits,North,Online,2021,5654.02,2.33,13.16,Rural
+Godrej Consumer,Home Care,Biscuits,North,Offline,2022,3920.51,2.06,13.75,Urban
+Marico,Health Care,Beverages,West,Online,2024,1702.72,9.21,9.36,Rural
+Patanjali,Health Care,Bakery,West,Online,2023,2936.23,15.85,8.0,Rural
+Britannia,Food & Beverages,Shampoo,West,Offline,2022,2953.47,4.16,13.95,Rural
+Colgate-Palmolive,Health Care,Biscuits,North,Offline,2024,1217.38,18.79,12.75,Urban
+ITC,Personal Care,Hair Oil,South,Online,2025,1341.3,8.8,9.57,Rural
+Colgate-Palmolive,Home Care,Beverages,South,Online,2021,3434.98,2.73,13.8,Urban
+Dabur,Home Care,Hair Oil,West,Online,2020,864.05,14.58,9.49,Urban
+Hindustan Unilever,Food & Beverages,Beverages,North,Offline,2022,3946.8,9.99,8.04,Urban
+Marico,Health Care,Hair Oil,East,Online,2024,1717.87,15.43,7.44,Urban
+Nestle India,Home Care,Biscuits,South,Online,2025,2496.36,1.4,12.52,Rural
+Marico,Health Care,Bakery,North,Online,2024,4787.22,7.69,13.79,Urban
+Marico,Personal Care,Soap,East,Offline,2025,1128.18,15.91,3.12,Urban
+Colgate-Palmolive,Home Care,Biscuits,East,Online,2022,5715.29,16.33,8.58,Rural
+ITC,Home Care,Bakery,North,Offline,2025,2852.92,6.01,12.63,Urban
+Godrej Consumer,Personal Care,Shampoo,North,Online,2022,5602.62,15.78,13.68,Urban
+Patanjali,Food & Beverages,Soap,West,Online,2022,2707.85,15.62,13.45,Rural
+Nestle India,Personal Care,Bakery,South,Online,2023,917.6,16.29,4.32,Rural
+Godrej Consumer,Health Care,Noodles,North,Offline,2024,4954.78,7.44,12.45,Urban
+Colgate-Palmolive,Personal Care,Biscuits,North,Offline,2020,700.32,15.04,4.52,Urban
+Britannia,Home Care,Soap,South,Online,2020,1211.27,1.03,13.94,Urban
+Colgate-Palmolive,Health Care,Shampoo,South,Offline,2024,745.87,14.15,12.69,Rural
+Marico,Personal Care,Bakery,West,Offline,2021,2944.83,12.91,11.83,Rural
+Dabur,Health Care,Ayurvedic Products,North,Online,2023,3152.6,13.75,7.32,Rural
+Britannia,Health Care,Oral Care,South,Online,2022,4661.44,7.18,13.68,Urban
+Godrej Consumer,Personal Care,Noodles,North,Offline,2024,3527.67,14.24,4.88,Urban
+Nestle India,Health Care,Soap,West,Offline,2025,4293.72,1.31,4.88,Rural
+Nestle India,Home Care,Hair Oil,East,Offline,2021,2855.71,8.26,10.43,Rural
+Hindustan Unilever,Food & Beverages,Beverages,North,Online,2021,4426.77,4.82,3.35,Urban
+Marico,Health Care,Insecticides,North,Offline,2023,4665.02,16.23,3.37,Urban
+Marico,Food & Beverages,Shampoo,West,Online,2022,2326.31,14.58,8.98,Rural
+Nestle India,Home Care,Shampoo,West,Online,2020,1066.9,12.68,3.83,Rural
+Dabur,Home Care,Soap,East,Offline,2020,3546.84,11.65,3.39,Rural
+Hindustan Unilever,Health Care,Beverages,North,Offline,2021,1588.15,19.1,11.74,Urban
+Patanjali,Food & Beverages,Oral Care,West,Offline,2023,5623.8,8.66,8.26,Urban
+Godrej Consumer,Personal Care,Ayurvedic Products,East,Offline,2020,4478.53,4.48,3.52,Urban
+Colgate-Palmolive,Food & Beverages,Hair Oil,East,Offline,2020,3728.99,11.95,14.3,Rural
+Marico,Health Care,Shampoo,East,Online,2022,1103.86,8.89,12.35,Rural
+Reliance Consumer,Personal Care,Hair Oil,South,Offline,2025,1965.47,16.64,11.49,Rural
+ITC,Food & Beverages,Shampoo,South,Offline,2024,4767.2,11.98,9.24,Urban
+Hindustan Unilever,Health Care,Oral Care,East,Online,2024,5691.62,14.81,4.71,Rural
+Nestle India,Personal Care,Noodles,West,Offline,2024,3006.51,19.54,5.29,Rural
+Nestle India,Personal Care,Soap,North,Online,2025,3072.84,6.29,13.78,Rural
+Godrej Consumer,Food & Beverages,Insecticides,East,Offline,2020,600.68,8.02,6.27,Urban
+Hindustan Unilever,Food & Beverages,Shampoo,East,Offline,2021,3090.18,12.85,11.41,Urban
+Hindustan Unilever,Food & Beverages,Hair Oil,East,Offline,2025,4277.81,15.45,7.58,Urban
+Reliance Consumer,Personal Care,Shampoo,South,Online,2020,4185.11,9.97,5.69,Urban
+Reliance Consumer,Personal Care,Insecticides,South,Online,2022,2428.6,5.63,13.05,Rural
+Patanjali,Health Care,Noodles,West,Offline,2023,923.54,16.84,13.3,Rural
+Hindustan Unilever,Personal Care,Shampoo,West,Offline,2025,2798.22,14.15,4.89,Rural
+Colgate-Palmolive,Health Care,Oral Care,North,Online,2023,1647.04,6.9,4.54,Rural
+ITC,Health Care,Noodles,South,Offline,2021,5238.68,17.88,14.32,Urban
+Marico,Personal Care,Soap,South,Online,2024,3878.35,12.34,5.45,Rural
+Nestle India,Home Care,Oral Care,West,Offline,2020,1686.83,4.49,13.23,Urban
+Patanjali,Food & Beverages,Shampoo,South,Offline,2020,3606.44,15.51,4.27,Rural
+Hindustan Unilever,Food & Beverages,Beverages,North,Online,2022,3767.15,3.11,11.97,Rural
+Godrej Consumer,Health Care,Bakery,South,Offline,2024,5561.4,14.47,14.5,Urban
+Colgate-Palmolive,Home Care,Noodles,West,Offline,2021,1409.09,6.18,6.03,Urban
+Dabur,Health Care,Noodles,South,Offline,2022,4247.57,16.02,14.25,Urban
+Colgate-Palmolive,Health Care,Beverages,East,Online,2021,3220.83,3.52,10.04,Rural
+Colgate-Palmolive,Personal Care,Bakery,East,Offline,2025,617.36,9.18,8.07,Urban
+Patanjali,Health Care,Bakery,North,Online,2020,5525.59,2.08,5.78,Urban
+ITC,Health Care,Noodles,South,Online,2024,1476.96,10.82,14.48,Rural
+Hindustan Unilever,Health Care,Insecticides,North,Offline,2025,517.53,8.52,4.44,Rural
+Nestle India,Health Care,Insecticides,South,Online,2023,1425.81,8.31,14.14,Urban
+Dabur,Food & Beverages,Insecticides,North,Online,2025,3101.58,12.76,5.45,Rural
+Patanjali,Personal Care,Insecticides,South,Online,2020,796.44,3.91,8.23,Rural
+Hindustan Unilever,Food & Beverages,Insecticides,North,Online,2025,624.67,17.5,4.05,Rural
+ITC,Health Care,Shampoo,North,Online,2025,3043.48,1.09,4.07,Urban
+Colgate-Palmolive,Home Care,Ayurvedic Products,East,Online,2024,3620.77,2.58,11.43,Urban
+Nestle India,Health Care,Soap,North,Offline,2025,998.58,13.89,12.93,Urban
+Nestle India,Personal Care,Soap,West,Online,2021,3963.98,7.2,13.85,Rural
+Colgate-Palmolive,Health Care,Bakery,East,Online,2020,2209.37,12.53,14.24,Urban
+Hindustan Unilever,Home Care,Hair Oil,South,Offline,2021,1412.02,17.95,12.39,Urban
+Reliance Consumer,Health Care,Bakery,South,Online,2025,3793.85,3.51,3.67,Urban
+Hindustan Unilever,Food & Beverages,Hair Oil,East,Offline,2024,1750.43,10.38,3.5,Rural
+Marico,Health Care,Oral Care,East,Offline,2024,3783.71,2.19,8.97,Urban
+Reliance Consumer,Personal Care,Beverages,South,Online,2023,1592.28,16.13,8.78,Urban
+Godrej Consumer,Health Care,Soap,East,Online,2024,3055.42,13.37,8.63,Urban
+Marico,Home Care,Biscuits,West,Online,2024,2357.42,13.06,10.51,Urban
+Dabur,Home Care,Oral Care,West,Online,2021,5231.05,1.58,10.24,Rural
+Godrej Consumer,Personal Care,Insecticides,East,Online,2023,4581.82,9.63,7.34,Rural
+Dabur,Home Care,Ayurvedic Products,East,Online,2025,2421.96,6.99,13.52,Urban
+ITC,Home Care,Oral Care,East,Online,2025,5325.74,10.8,8.83,Rural
+Colgate-Palmolive,Personal Care,Insecticides,East,Online,2022,2224.65,16.69,7.22,Rural
+Dabur,Home Care,Beverages,West,Online,2021,2244.91,13.93,6.45,Rural
+Hindustan Unilever,Food & Beverages,Insecticides,North,Offline,2020,1796.32,19.33,9.47,Urban
+Hindustan Unilever,Food & Beverages,Shampoo,North,Online,2021,756.62,19.24,8.47,Urban
+Reliance Consumer,Health Care,Ayurvedic Products,South,Online,2021,2715.1,9.04,11.67,Rural
+Dabur,Food & Beverages,Ayurvedic Products,East,Online,2021,5522.08,5.32,5.87,Rural
+ITC,Health Care,Biscuits,South,Offline,2025,1691.15,13.01,9.21,Urban
+Marico,Food & Beverages,Hair Oil,North,Online,2021,1851.65,11.68,14.12,Urban
+Dabur,Food & Beverages,Insecticides,South,Offline,2025,5775.28,7.72,6.67,Urban
+Marico,Food & Beverages,Noodles,East,Offline,2023,2211.8,11.82,13.08,Urban
+Patanjali,Health Care,Insecticides,North,Offline,2021,2392.22,2.29,5.33,Urban
+Colgate-Palmolive,Home Care,Insecticides,North,Offline,2024,1042.95,11.6,3.94,Urban
+Nestle India,Personal Care,Insecticides,West,Offline,2025,2749.52,12.21,14.37,Urban
+Nestle India,Home Care,Shampoo,West,Online,2025,5298.73,5.92,6.88,Rural
+Nestle India,Home Care,Insecticides,East,Online,2023,5097.62,9.99,11.19,Urban
+Patanjali,Food & Beverages,Soap,East,Online,2020,586.95,1.05,5.39,Rural
+ITC,Health Care,Hair Oil,East,Online,2020,1712.22,15.79,7.39,Rural
+Marico,Food & Beverages,Soap,South,Offline,2023,1410.38,19.2,3.41,Urban
+Godrej Consumer,Food & Beverages,Bakery,North,Offline,2025,5548.68,5.49,14.69,Rural
+Nestle India,Home Care,Noodles,West,Offline,2022,5816.31,17.84,7.66,Rural
+Hindustan Unilever,Home Care,Oral Care,West,Offline,2022,2486.28,19.39,4.1,Urban
+ITC,Home Care,Biscuits,South,Online,2023,3877.56,8.04,10.65,Urban
+Godrej Consumer,Home Care,Biscuits,West,Offline,2023,4991.57,18.18,8.3,Urban
+Hindustan Unilever,Personal Care,Ayurvedic Products,West,Online,2022,820.45,9.98,7.96,Rural
+Hindustan Unilever,Food & Beverages,Soap,North,Online,2021,4685.45,4.67,9.74,Rural
+Patanjali,Food & Beverages,Insecticides,East,Offline,2021,2962.27,13.47,10.43,Rural
+Marico,Personal Care,Soap,South,Online,2023,2981.65,6.75,7.56,Rural
+ITC,Food & Beverages,Bakery,North,Offline,2024,2642.21,15.65,5.64,Urban
+ITC,Home Care,Ayurvedic Products,West,Online,2024,766.06,6.49,9.21,Urban
+Reliance Consumer,Home Care,Noodles,East,Offline,2023,5971.52,3.45,8.64,Rural
+Hindustan Unilever,Personal Care,Biscuits,East,Offline,2022,1551.33,9.92,9.8,Urban
+Marico,Health Care,Shampoo,North,Offline,2022,993.33,8.56,12.06,Rural
+Britannia,Health Care,Shampoo,North,Offline,2020,2496.27,8.22,6.04,Rural
+Nestle India,Personal Care,Bakery,North,Online,2023,1305.63,11.72,4.8,Rural
+Nestle India,Health Care,Beverages,South,Offline,2021,3900.78,5.98,11.54,Rural
+Dabur,Food & Beverages,Hair Oil,South,Offline,2023,4587.02,15.28,14.95,Urban
+Godrej Consumer,Home Care,Hair Oil,North,Online,2020,1900.95,5.42,9.95,Urban
+Patanjali,Food & Beverages,Biscuits,South,Online,2021,4141.59,18.57,9.11,Rural
+Colgate-Palmolive,Home Care,Soap,West,Offline,2025,1948.27,4.66,5.45,Rural
+Britannia,Food & Beverages,Hair Oil,South,Offline,2024,1002.7,11.45,5.44,Rural
+Reliance Consumer,Food & Beverages,Ayurvedic Products,North,Online,2024,5340.78,7.48,12.74,Rural
+Patanjali,Health Care,Shampoo,South,Online,2020,3745.33,15.65,14.56,Rural
+Hindustan Unilever,Health Care,Beverages,North,Offline,2020,3069.91,5.46,11.97,Rural
+Britannia,Personal Care,Ayurvedic Products,North,Online,2023,4756.98,11.33,5.64,Urban
+Patanjali,Personal Care,Noodles,North,Offline,2025,2537.09,16.06,4.17,Rural
+Reliance Consumer,Health Care,Ayurvedic Products,East,Online,2023,1395.06,12.25,11.61,Urban
+Colgate-Palmolive,Health Care,Bakery,East,Offline,2023,2732.03,7.41,6.76,Urban
+Reliance Consumer,Food & Beverages,Noodles,North,Offline,2020,3732.5,7.68,8.74,Rural
+ITC,Food & Beverages,Insecticides,East,Offline,2021,5880.12,11.64,5.39,Rural
+Colgate-Palmolive,Home Care,Bakery,West,Offline,2024,2294.92,14.24,13.35,Urban
+Godrej Consumer,Personal Care,Oral Care,South,Online,2020,4878.36,18.81,3.83,Rural
+Marico,Home Care,Ayurvedic Products,South,Offline,2022,4102.38,6.23,13.1,Urban
+Dabur,Health Care,Noodles,South,Offline,2024,4119.48,10.07,13.73,Urban
+Godrej Consumer,Home Care,Oral Care,North,Online,2025,4960.2,12.57,7.07,Urban
+Reliance Consumer,Food & Beverages,Ayurvedic Products,North,Offline,2023,4678.86,4.6,7.54,Urban
+Marico,Personal Care,Noodles,West,Online,2025,4006.42,12.27,14.18,Rural
+Reliance Consumer,Food & Beverages,Biscuits,West,Offline,2021,1531.83,3.14,13.86,Rural
+Colgate-Palmolive,Food & Beverages,Soap,North,Offline,2023,1735.91,17.62,8.25,Urban
+Britannia,Home Care,Oral Care,North,Online,2022,4447.98,9.41,8.74,Urban
+Reliance Consumer,Personal Care,Insecticides,South,Online,2022,2861.27,3.87,13.12,Rural
+Britannia,Food & Beverages,Bakery,West,Online,2020,1968.26,15.09,6.61,Urban
+Colgate-Palmolive,Food & Beverages,Hair Oil,South,Online,2021,4101.67,6.14,10.52,Rural
+Nestle India,Home Care,Soap,East,Offline,2022,3723.16,1.17,9.42,Rural
+Nestle India,Home Care,Ayurvedic Products,North,Online,2023,1707.23,12.71,3.24,Rural
+Dabur,Food & Beverages,Biscuits,North,Online,2020,4319.59,19.59,3.41,Rural
+Marico,Personal Care,Noodles,South,Online,2024,2206.48,14.88,13.1,Rural
+Colgate-Palmolive,Home Care,Insecticides,West,Online,2022,1806.59,5.78,14.77,Urban
+Dabur,Health Care,Shampoo,South,Offline,2025,5457.01,16.13,14.06,Rural
+Nestle India,Personal Care,Beverages,West,Online,2023,4141.66,13.99,6.66,Rural
+Hindustan Unilever,Food & Beverages,Shampoo,South,Online,2021,5561.07,7.47,3.97,Rural
+Dabur,Home Care,Soap,West,Offline,2023,2884.5,15.81,8.47,Urban
+Marico,Home Care,Soap,South,Online,2024,3878.1,8.39,4.99,Rural
+Nestle India,Personal Care,Soap,South,Online,2021,2454.2,1.45,13.49,Urban
+Marico,Health Care,Beverages,West,Online,2021,1114.15,18.86,8.97,Urban
+Dabur,Personal Care,Noodles,East,Online,2022,2593.55,12.07,7.58,Urban
+Britannia,Health Care,Soap,East,Offline,2023,2201.63,7.22,10.37,Rural
+ITC,Food & Beverages,Beverages,East,Offline,2020,1361.25,13.61,11.73,Rural
+Marico,Home Care,Beverages,East,Online,2025,2490.08,11.57,9.36,Rural
+Patanjali,Food & Beverages,Ayurvedic Products,West,Online,2021,5546.03,17.77,13.71,Rural
+Nestle India,Health Care,Biscuits,West,Online,2024,4030.27,18.42,12.99,Rural
+Colgate-Palmolive,Health Care,Noodles,South,Online,2021,5744.29,8.87,14.54,Urban
+Marico,Food & Beverages,Bakery,West,Offline,2024,5910.84,4.62,4.46,Rural
+Marico,Health Care,Insecticides,West,Online,2023,4152.44,5.05,11.39,Urban
+Reliance Consumer,Home Care,Bakery,North,Online,2022,1746.4,17.96,3.12,Rural
+Hindustan Unilever,Food & Beverages,Oral Care,West,Offline,2024,3721.23,18.17,11.89,Urban
+ITC,Home Care,Hair Oil,North,Offline,2023,2524.71,19.29,6.67,Rural
+Marico,Personal Care,Bakery,North,Offline,2020,5041.14,3.73,6.27,Rural
+Hindustan Unilever,Personal Care,Oral Care,East,Offline,2022,3115.62,13.98,5.82,Urban
+Dabur,Health Care,Oral Care,West,Offline,2025,5725.5,16.58,13.85,Urban
+Nestle India,Personal Care,Hair Oil,West,Online,2020,5388.53,2.45,5.68,Urban
+Patanjali,Health Care,Shampoo,North,Online,2021,4767.74,11.47,14.63,Urban
+Marico,Food & Beverages,Biscuits,South,Offline,2022,4676.11,17.89,9.21,Urban
+Nestle India,Personal Care,Biscuits,East,Online,2025,4906.07,7.83,6.88,Rural
+Nestle India,Food & Beverages,Noodles,North,Offline,2024,1326.41,13.55,12.09,Rural
+Dabur,Personal Care,Hair Oil,West,Online,2025,3457.62,5.69,4.24,Rural
+Reliance Consumer,Food & Beverages,Biscuits,North,Offline,2025,5069.22,3.13,8.15,Urban
+Godrej Consumer,Home Care,Bakery,North,Online,2020,1962.55,19.11,9.45,Urban
+Hindustan Unilever,Health Care,Insecticides,South,Offline,2021,3933.95,14.77,10.46,Rural
+Nestle India,Home Care,Insecticides,West,Offline,2022,3106.93,16.63,8.77,Rural
+Nestle India,Home Care,Soap,East,Offline,2022,3593.77,6.53,10.59,Rural
+Reliance Consumer,Health Care,Hair Oil,South,Offline,2021,1316.26,15.28,11.93,Rural
+ITC,Personal Care,Insecticides,South,Online,2020,4557.96,6.22,11.18,Rural
+ITC,Home Care,Bakery,South,Online,2021,3159.22,13.59,11.9,Urban
+Dabur,Food & Beverages,Insecticides,East,Offline,2022,1122.44,7.67,10.34,Urban
+Godrej Consumer,Home Care,Soap,South,Offline,2021,3707.03,12.4,8.94,Rural
+Dabur,Health Care,Bakery,West,Offline,2023,770.71,2.04,12.0,Urban
+Patanjali,Health Care,Hair Oil,South,Offline,2024,5063.64,1.67,3.14,Rural
+Dabur,Personal Care,Insecticides,North,Offline,2023,1897.24,15.59,7.77,Rural
+Colgate-Palmolive,Food & Beverages,Ayurvedic Products,South,Offline,2022,2220.99,13.92,6.5,Rural
+Marico,Home Care,Bakery,South,Offline,2024,4197.54,18.57,5.3,Urban
+Marico,Health Care,Oral Care,West,Offline,2025,2356.58,4.07,6.51,Rural
+Dabur,Food & Beverages,Noodles,North,Online,2023,3448.86,11.72,12.34,Rural
+Patanjali,Home Care,Soap,North,Online,2024,1970.9,1.21,6.05,Urban
+Hindustan Unilever,Food & Beverages,Shampoo,East,Offline,2021,3337.52,19.93,11.54,Rural
+Nestle India,Food & Beverages,Bakery,North,Offline,2022,5246.93,19.54,8.08,Urban
+Nestle India,Food & Beverages,Ayurvedic Products,North,Online,2024,4413.19,16.3,8.48,Urban
+Hindustan Unilever,Food & Beverages,Ayurvedic Products,East,Offline,2025,2229.28,17.05,5.03,Urban
+Colgate-Palmolive,Personal Care,Soap,South,Online,2024,1800.82,7.23,12.32,Urban
+Godrej Consumer,Personal Care,Ayurvedic Products,South,Online,2024,5976.99,5.81,11.11,Rural
+Colgate-Palmolive,Health Care,Bakery,West,Offline,2024,1569.99,9.73,6.12,Urban
+Patanjali,Health Care,Soap,East,Online,2023,4428.85,19.77,11.36,Rural
+Britannia,Home Care,Biscuits,West,Offline,2024,4124.21,15.91,4.15,Urban
+Dabur,Health Care,Bakery,East,Offline,2020,952.7,1.35,5.39,Urban
+Patanjali,Food & Beverages,Insecticides,North,Online,2024,4522.02,17.07,5.1,Rural
+Britannia,Personal Care,Oral Care,West,Online,2021,4266.46,6.11,3.32,Urban
+ITC,Home Care,Shampoo,East,Online,2020,2672.56,19.79,3.17,Urban
+Patanjali,Health Care,Ayurvedic Products,South,Offline,2020,5430.56,9.66,13.78,Urban
+Colgate-Palmolive,Health Care,Oral Care,West,Offline,2021,783.75,19.7,8.85,Rural
+ITC,Personal Care,Hair Oil,North,Offline,2025,2270.06,2.68,10.52,Urban
+ITC,Personal Care,Soap,South,Online,2025,2263.11,8.08,5.27,Rural
+Godrej Consumer,Personal Care,Oral Care,South,Online,2020,5355.54,17.88,7.78,Urban
+ITC,Home Care,Ayurvedic Products,North,Offline,2024,5476.84,17.3,11.79,Urban
+Britannia,Home Care,Shampoo,West,Offline,2020,5954.58,8.29,10.63,Urban
+Patanjali,Personal Care,Beverages,North,Offline,2023,3350.2,17.88,13.33,Rural
+Marico,Health Care,Insecticides,South,Offline,2020,1095.64,12.27,4.81,Rural
+Patanjali,Personal Care,Hair Oil,West,Online,2022,4768.39,3.3,10.44,Urban
+Reliance Consumer,Health Care,Insecticides,South,Offline,2022,3767.63,5.16,5.62,Rural
+Nestle India,Food & Beverages,Shampoo,North,Online,2020,592.64,18.15,3.78,Rural
+Hindustan Unilever,Home Care,Shampoo,East,Online,2021,3242.11,10.57,13.92,Rural
+Nestle India,Health Care,Ayurvedic Products,West,Online,2020,802.54,19.97,8.78,Rural
+Marico,Health Care,Soap,North,Offline,2025,5153.77,15.67,4.44,Urban
+Godrej Consumer,Personal Care,Noodles,South,Offline,2023,3160.45,19.88,4.25,Rural
+Patanjali,Food & Beverages,Insecticides,West,Online,2022,3466.99,4.4,14.58,Urban
+Godrej Consumer,Health Care,Oral Care,South,Online,2023,4401.41,7.24,11.62,Urban
+Nestle India,Home Care,Oral Care,East,Online,2020,5067.02,6.57,13.99,Urban
+Colgate-Palmolive,Personal Care,Shampoo,West,Offline,2021,2414.54,16.68,5.58,Urban
+Dabur,Personal Care,Bakery,East,Offline,2023,664.53,18.94,9.05,Rural
+Patanjali,Health Care,Oral Care,West,Offline,2022,4385.85,16.3,12.48,Urban
+Patanjali,Food & Beverages,Shampoo,West,Online,2023,1078.49,14.27,3.57,Rural
+Marico,Food & Beverages,Biscuits,East,Online,2020,1222.02,11.36,9.78,Urban
+Patanjali,Personal Care,Soap,North,Online,2023,1521.29,12.55,8.92,Rural
+Colgate-Palmolive,Personal Care,Soap,West,Offline,2021,786.0,7.99,5.15,Urban
+Marico,Food & Beverages,Oral Care,North,Online,2022,3567.04,4.85,13.51,Rural
+Marico,Health Care,Bakery,North,Online,2021,5170.46,15.97,8.53,Urban
+Hindustan Unilever,Health Care,Hair Oil,West,Online,2022,3363.64,16.96,3.3,Rural
+Hindustan Unilever,Food & Beverages,Biscuits,East,Online,2022,4156.0,14.82,12.8,Rural
+Britannia,Personal Care,Soap,North,Offline,2024,4440.25,3.22,3.04,Urban
+Reliance Consumer,Health Care,Insecticides,South,Offline,2025,2027.53,13.45,9.91,Urban
+Marico,Health Care,Bakery,East,Offline,2020,4888.51,12.26,6.71,Rural
+Patanjali,Health Care,Oral Care,North,Online,2022,4071.57,12.48,9.01,Urban
+Hindustan Unilever,Personal Care,Hair Oil,West,Online,2021,3019.61,18.34,14.1,Rural
+ITC,Food & Beverages,Beverages,South,Offline,2025,3505.83,13.5,13.77,Urban
+Colgate-Palmolive,Home Care,Hair Oil,East,Offline,2025,5236.57,9.17,6.01,Rural
+Hindustan Unilever,Personal Care,Soap,East,Offline,2020,2264.38,12.64,4.06,Rural
+ITC,Home Care,Noodles,East,Online,2025,3123.82,12.92,13.4,Rural
+Godrej Consumer,Food & Beverages,Biscuits,South,Online,2024,4440.64,3.25,9.53,Urban
+Patanjali,Personal Care,Soap,North,Offline,2023,5159.48,12.84,12.88,Rural
+Reliance Consumer,Food & Beverages,Noodles,North,Online,2024,3552.87,4.73,8.57,Rural
+Hindustan Unilever,Health Care,Noodles,South,Offline,2023,1030.66,3.28,12.76,Rural
+Marico,Food & Beverages,Hair Oil,East,Offline,2022,4981.96,6.1,14.64,Rural
+Godrej Consumer,Home Care,Ayurvedic Products,South,Offline,2024,703.42,11.76,8.72,Urban
+Godrej Consumer,Food & Beverages,Hair Oil,North,Offline,2023,2500.41,14.79,9.37,Urban
+Reliance Consumer,Home Care,Shampoo,South,Offline,2024,933.62,7.7,14.95,Rural
+Nestle India,Home Care,Hair Oil,West,Online,2020,3519.65,18.45,6.22,Rural
+ITC,Personal Care,Biscuits,East,Online,2021,4090.54,19.41,13.31,Rural
+Reliance Consumer,Health Care,Noodles,East,Offline,2021,4788.6,17.24,12.35,Urban
+Hindustan Unilever,Personal Care,Biscuits,North,Offline,2020,4310.59,19.48,10.0,Urban
+Hindustan Unilever,Food & Beverages,Biscuits,West,Online,2022,1343.68,11.53,3.51,Rural
+Britannia,Personal Care,Hair Oil,East,Offline,2020,5394.77,17.04,11.0,Urban
+Dabur,Personal Care,Ayurvedic Products,East,Online,2024,3487.5,6.07,6.25,Urban
+Marico,Health Care,Hair Oil,South,Online,2021,3581.35,13.3,12.65,Rural
+Dabur,Personal Care,Oral Care,East,Online,2021,5167.42,5.59,10.81,Urban
+Patanjali,Home Care,Hair Oil,North,Online,2023,5131.04,7.62,7.61,Rural
+Dabur,Home Care,Noodles,East,Online,2022,2832.74,2.09,8.21,Rural
+Colgate-Palmolive,Health Care,Noodles,North,Offline,2024,5023.8,16.92,9.62,Urban
+Marico,Food & Beverages,Hair Oil,West,Online,2020,2791.51,4.9,6.64,Rural
+Colgate-Palmolive,Personal Care,Soap,East,Online,2025,2351.83,3.19,11.83,Rural
+Colgate-Palmolive,Health Care,Hair Oil,South,Offline,2025,2607.78,15.26,3.97,Urban
+Nestle India,Personal Care,Bakery,North,Offline,2023,663.62,2.2,12.55,Rural
+Colgate-Palmolive,Personal Care,Bakery,West,Online,2020,5229.66,19.98,7.16,Rural
+Marico,Health Care,Insecticides,East,Offline,2021,4292.3,2.27,14.98,Urban
+ITC,Health Care,Beverages,South,Offline,2022,4194.59,2.93,7.5,Urban
+Godrej Consumer,Personal Care,Soap,East,Offline,2025,5727.87,8.62,11.15,Rural
+Reliance Consumer,Food & Beverages,Biscuits,North,Online,2022,2488.36,14.36,12.74,Urban
+Patanjali,Health Care,Noodles,West,Offline,2023,1083.92,3.25,13.18,Urban
+Colgate-Palmolive,Health Care,Noodles,West,Offline,2021,4041.12,8.29,7.47,Urban
+Dabur,Home Care,Insecticides,South,Offline,2023,2635.56,3.03,8.29,Rural
+Hindustan Unilever,Health Care,Beverages,North,Offline,2022,1435.23,15.76,12.14,Rural
+Patanjali,Food & Beverages,Beverages,West,Offline,2020,4720.76,15.82,13.88,Rural
+Patanjali,Home Care,Shampoo,West,Offline,2020,3852.55,13.0,5.09,Urban
+Dabur,Food & Beverages,Hair Oil,West,Online,2024,4323.04,4.96,7.54,Urban
+Britannia,Personal Care,Insecticides,East,Online,2023,3430.45,7.68,10.65,Urban
+Godrej Consumer,Health Care,Biscuits,North,Online,2021,5014.97,2.09,5.74,Rural
+Reliance Consumer,Home Care,Beverages,West,Online,2022,4838.83,12.39,6.69,Urban
+Godrej Consumer,Personal Care,Insecticides,East,Online,2021,5231.09,10.26,6.7,Urban
+Britannia,Home Care,Shampoo,South,Offline,2022,3786.26,6.09,3.71,Rural
+Godrej Consumer,Home Care,Oral Care,North,Online,2024,964.16,15.27,7.88,Rural
+Reliance Consumer,Personal Care,Bakery,East,Offline,2022,738.35,17.75,7.97,Urban
+Colgate-Palmolive,Food & Beverages,Bakery,West,Online,2022,4395.06,12.54,14.06,Urban
+Hindustan Unilever,Health Care,Oral Care,East,Offline,2021,5760.19,10.18,4.22,Rural
+Reliance Consumer,Food & Beverages,Oral Care,North,Offline,2024,1547.88,13.21,11.01,Urban
+Dabur,Home Care,Beverages,West,Offline,2022,4330.28,4.09,5.94,Rural
+Dabur,Personal Care,Noodles,East,Offline,2021,2271.39,1.49,6.94,Urban
+ITC,Personal Care,Hair Oil,West,Online,2021,1991.26,10.42,5.31,Urban
+Marico,Food & Beverages,Beverages,East,Offline,2021,2311.01,4.26,11.51,Rural
+Marico,Food & Beverages,Shampoo,West,Offline,2025,728.47,17.32,14.18,Rural
+Patanjali,Food & Beverages,Beverages,North,Online,2025,3922.58,4.69,14.55,Rural
+Dabur,Food & Beverages,Hair Oil,East,Online,2025,3549.45,4.18,11.23,Urban
+Dabur,Home Care,Noodles,North,Offline,2025,693.11,1.08,10.96,Rural
+Marico,Personal Care,Beverages,West,Online,2022,2074.38,7.93,8.16,Urban
+Colgate-Palmolive,Home Care,Hair Oil,South,Offline,2025,5349.16,17.12,11.74,Urban
+Colgate-Palmolive,Food & Beverages,Bakery,West,Online,2020,3329.77,2.18,14.86,Urban
+Reliance Consumer,Health Care,Biscuits,West,Offline,2021,5111.25,1.74,7.93,Urban
+Nestle India,Health Care,Beverages,South,Online,2025,2639.93,12.08,14.59,Urban
+ITC,Health Care,Insecticides,North,Offline,2024,2230.52,16.81,5.2,Urban
+Britannia,Home Care,Bakery,East,Offline,2024,2885.79,6.65,6.12,Rural
+Dabur,Health Care,Hair Oil,South,Offline,2020,3114.61,9.86,5.33,Urban
+Patanjali,Food & Beverages,Shampoo,North,Offline,2021,4222.61,18.49,5.37,Rural
+Reliance Consumer,Health Care,Beverages,North,Online,2023,700.71,14.89,12.21,Urban
+Britannia,Food & Beverages,Soap,West,Online,2024,2689.16,14.01,8.15,Urban
+ITC,Health Care,Biscuits,East,Offline,2025,5666.14,5.44,13.39,Urban
+Godrej Consumer,Personal Care,Noodles,West,Online,2021,1295.48,1.63,8.41,Urban
+Colgate-Palmolive,Food & Beverages,Biscuits,East,Online,2024,1703.51,19.91,12.41,Urban
+Patanjali,Health Care,Noodles,East,Offline,2021,5727.84,13.67,3.02,Rural
+Reliance Consumer,Health Care,Oral Care,West,Offline,2021,4087.68,11.18,3.03,Urban
+Marico,Personal Care,Beverages,North,Online,2022,2597.02,11.7,6.76,Urban
+Colgate-Palmolive,Health Care,Noodles,West,Online,2024,4967.81,14.3,11.74,Urban
+Marico,Home Care,Hair Oil,West,Offline,2022,4561.97,8.37,14.68,Rural
+Dabur,Personal Care,Ayurvedic Products,North,Online,2023,4343.81,9.03,3.38,Urban
+Dabur,Home Care,Noodles,North,Offline,2025,4971.6,11.48,4.6,Urban
+Reliance Consumer,Personal Care,Noodles,North,Offline,2024,1941.41,7.7,13.63,Urban
+Patanjali,Personal Care,Shampoo,West,Online,2024,5745.66,9.43,7.68,Urban
+Nestle India,Food & Beverages,Ayurvedic Products,East,Offline,2023,2006.19,12.92,3.69,Urban
+Patanjali,Health Care,Soap,East,Offline,2022,795.7,13.52,13.39,Urban
+Dabur,Food & Beverages,Shampoo,South,Online,2021,2880.84,8.01,11.49,Urban
+Hindustan Unilever,Personal Care,Beverages,South,Online,2025,3326.3,8.12,10.34,Rural
+Dabur,Food & Beverages,Soap,East,Offline,2022,4814.72,15.8,13.24,Rural
+Britannia,Personal Care,Insecticides,West,Online,2024,5877.62,6.89,11.76,Rural
+Nestle India,Food & Beverages,Insecticides,East,Offline,2020,5588.16,9.1,3.05,Urban
+Colgate-Palmolive,Food & Beverages,Insecticides,South,Online,2020,5355.51,10.61,6.84,Urban
+Dabur,Home Care,Soap,North,Offline,2025,3333.83,17.86,8.65,Urban
+ITC,Food & Beverages,Insecticides,South,Offline,2022,1002.75,8.07,5.34,Urban
+Britannia,Food & Beverages,Soap,West,Online,2025,2561.37,9.29,4.54,Rural
+Colgate-Palmolive,Health Care,Bakery,South,Online,2025,2790.71,1.76,11.39,Rural
+Reliance Consumer,Health Care,Oral Care,North,Online,2021,3509.11,7.4,3.89,Urban
+Marico,Health Care,Bakery,West,Offline,2021,3246.1,13.51,6.25,Rural
+Patanjali,Home Care,Shampoo,North,Online,2021,4944.68,9.82,3.72,Urban
+Patanjali,Health Care,Hair Oil,North,Offline,2022,587.69,6.95,9.39,Urban
+Patanjali,Health Care,Beverages,East,Offline,2021,3010.39,16.1,3.16,Rural
+Reliance Consumer,Food & Beverages,Shampoo,North,Offline,2025,3528.57,19.97,10.18,Rural
+Hindustan Unilever,Food & Beverages,Beverages,West,Offline,2025,5477.42,13.36,14.78,Rural
+Godrej Consumer,Personal Care,Ayurvedic Products,East,Online,2023,1394.14,14.11,6.28,Urban
+Godrej Consumer,Food & Beverages,Oral Care,East,Offline,2024,1376.42,12.48,5.73,Rural
+Hindustan Unilever,Home Care,Insecticides,North,Offline,2021,569.75,13.45,13.74,Urban
+Reliance Consumer,Health Care,Beverages,East,Online,2022,4928.98,4.35,9.69,Rural
+Colgate-Palmolive,Food & Beverages,Beverages,West,Online,2020,2099.23,5.41,6.95,Urban
+Marico,Food & Beverages,Ayurvedic Products,West,Online,2023,518.66,12.37,10.6,Rural
+Dabur,Food & Beverages,Noodles,North,Online,2025,5183.05,14.35,8.87,Urban
+Godrej Consumer,Food & Beverages,Ayurvedic Products,West,Offline,2024,1026.51,3.29,4.5,Urban
+Dabur,Home Care,Bakery,West,Offline,2025,1759.94,17.73,7.72,Rural
+Patanjali,Food & Beverages,Bakery,North,Offline,2021,5937.81,15.54,3.95,Rural
+Hindustan Unilever,Food & Beverages,Beverages,West,Online,2022,4317.49,12.82,12.73,Rural
+Hindustan Unilever,Food & Beverages,Oral Care,North,Online,2025,5219.43,11.44,5.57,Urban
+Patanjali,Home Care,Bakery,East,Online,2023,5077.69,5.61,9.72,Rural
+Reliance Consumer,Home Care,Oral Care,East,Online,2024,1346.9,2.5,6.72,Urban
+Dabur,Health Care,Insecticides,North,Offline,2020,4745.61,9.46,3.57,Urban
+Reliance Consumer,Health Care,Soap,North,Online,2025,4614.05,13.58,13.29,Urban
+Colgate-Palmolive,Health Care,Biscuits,East,Online,2025,4284.56,6.02,14.42,Urban
+Godrej Consumer,Health Care,Beverages,East,Offline,2020,1328.52,16.02,4.61,Rural
+Hindustan Unilever,Health Care,Soap,South,Offline,2020,1018.39,5.07,5.59,Urban
+Marico,Personal Care,Ayurvedic Products,West,Online,2024,4059.82,8.87,13.2,Rural
+Godrej Consumer,Health Care,Biscuits,South,Online,2025,3135.76,16.45,11.88,Urban
+Colgate-Palmolive,Home Care,Beverages,East,Offline,2023,4683.31,5.42,8.62,Urban
+Colgate-Palmolive,Food & Beverages,Noodles,East,Offline,2023,730.06,4.55,5.47,Rural
+Hindustan Unilever,Food & Beverages,Insecticides,East,Offline,2020,1135.07,9.57,6.64,Rural
+Reliance Consumer,Home Care,Biscuits,South,Offline,2022,4617.09,3.99,7.28,Rural
+Reliance Consumer,Food & Beverages,Noodles,West,Offline,2020,3934.3,10.46,8.57,Urban
+Britannia,Home Care,Insecticides,North,Online,2021,1204.16,19.98,7.55,Urban
+Dabur,Food & Beverages,Hair Oil,North,Offline,2021,3464.02,19.04,3.18,Rural
+Nestle India,Home Care,Oral Care,North,Online,2024,4902.12,19.86,8.59,Urban
+ITC,Personal Care,Insecticides,North,Offline,2021,2493.9,5.61,13.05,Urban
+Godrej Consumer,Home Care,Shampoo,South,Online,2022,1733.24,12.74,5.96,Rural
+Dabur,Food & Beverages,Bakery,South,Offline,2025,2587.64,9.0,3.47,Rural
+ITC,Home Care,Noodles,South,Offline,2021,5947.65,8.25,6.43,Rural
+Godrej Consumer,Health Care,Ayurvedic Products,West,Offline,2025,5653.77,2.63,9.31,Rural
+Hindustan Unilever,Personal Care,Beverages,West,Offline,2022,3747.13,16.62,8.45,Rural
+Hindustan Unilever,Personal Care,Biscuits,West,Offline,2023,1586.66,2.67,14.41,Rural
+Marico,Health Care,Hair Oil,East,Online,2022,4523.8,10.49,10.26,Rural
+Britannia,Food & Beverages,Bakery,South,Online,2022,3638.13,3.51,14.65,Rural
+Patanjali,Home Care,Shampoo,East,Offline,2020,2111.56,9.79,7.97,Rural
+Britannia,Personal Care,Bakery,North,Offline,2025,5237.34,13.43,10.54,Urban
+ITC,Food & Beverages,Noodles,South,Online,2020,3165.75,2.0,6.23,Rural
+Nestle India,Health Care,Bakery,South,Online,2024,1160.57,3.54,9.05,Rural
+Patanjali,Home Care,Noodles,East,Online,2022,5270.02,3.54,13.15,Rural
+ITC,Personal Care,Hair Oil,West,Online,2022,4445.14,15.92,9.99,Rural
+Patanjali,Personal Care,Noodles,East,Offline,2024,1785.81,2.81,9.01,Urban
+ITC,Personal Care,Shampoo,South,Offline,2022,3769.17,8.9,6.06,Urban
+ITC,Health Care,Noodles,West,Online,2020,3831.65,9.76,10.75,Rural
+Reliance Consumer,Personal Care,Ayurvedic Products,East,Online,2020,3363.0,12.32,6.6,Urban
+Marico,Health Care,Soap,North,Online,2020,4431.01,6.03,9.11,Urban
+Hindustan Unilever,Food & Beverages,Oral Care,East,Online,2024,944.29,4.0,3.06,Rural
+Hindustan Unilever,Health Care,Hair Oil,West,Offline,2023,2393.08,18.77,3.1,Rural
+Nestle India,Personal Care,Beverages,West,Online,2025,3821.57,11.4,4.84,Rural
+Reliance Consumer,Health Care,Insecticides,West,Offline,2021,4824.44,5.48,14.45,Urban
+Britannia,Personal Care,Shampoo,North,Online,2021,3019.66,18.25,11.6,Rural
+Dabur,Personal Care,Biscuits,South,Offline,2022,4513.63,5.53,7.65,Urban
+Dabur,Personal Care,Oral Care,West,Online,2021,5589.54,4.31,10.59,Urban
+Patanjali,Home Care,Biscuits,South,Online,2024,3040.59,3.04,4.89,Rural
+Hindustan Unilever,Home Care,Beverages,West,Online,2022,1114.98,2.47,6.07,Urban
+ITC,Home Care,Shampoo,West,Online,2021,2060.59,14.73,12.65,Rural
+Dabur,Health Care,Insecticides,West,Online,2020,4030.56,4.38,12.45,Rural
+Marico,Home Care,Insecticides,North,Offline,2025,2608.92,13.13,3.99,Rural
+Reliance Consumer,Health Care,Insecticides,West,Offline,2022,1037.25,7.57,11.76,Rural
+Godrej Consumer,Personal Care,Ayurvedic Products,West,Offline,2022,2052.47,14.76,6.67,Rural
+Hindustan Unilever,Health Care,Soap,East,Online,2025,3774.89,12.12,3.07,Rural
+Hindustan Unilever,Food & Beverages,Insecticides,South,Offline,2022,5798.72,3.71,4.95,Urban
+Hindustan Unilever,Health Care,Insecticides,South,Online,2025,5563.28,3.01,8.8,Urban
+Reliance Consumer,Health Care,Oral Care,North,Offline,2021,5050.57,14.88,3.31,Urban
+Reliance Consumer,Health Care,Bakery,South,Online,2022,1125.34,9.72,11.14,Rural
+Colgate-Palmolive,Health Care,Ayurvedic Products,East,Online,2024,1672.73,4.84,10.91,Urban
+Dabur,Health Care,Insecticides,South,Offline,2021,838.29,11.27,4.53,Rural
+Dabur,Personal Care,Ayurvedic Products,East,Offline,2020,1044.09,15.95,12.12,Urban
+Colgate-Palmolive,Home Care,Beverages,South,Online,2020,4956.41,9.18,8.21,Rural
+Britannia,Food & Beverages,Bakery,East,Offline,2024,3346.64,15.54,5.75,Rural
+Hindustan Unilever,Health Care,Noodles,East,Online,2025,989.53,19.02,12.72,Urban
+Dabur,Personal Care,Bakery,North,Online,2024,2775.05,5.48,10.72,Rural
+Godrej Consumer,Health Care,Insecticides,North,Offline,2024,611.22,2.91,13.27,Rural
+ITC,Personal Care,Soap,East,Offline,2020,5470.27,9.82,14.81,Urban
+Nestle India,Personal Care,Ayurvedic Products,South,Offline,2022,2293.77,8.5,3.97,Urban
+Hindustan Unilever,Health Care,Beverages,South,Offline,2021,1626.05,10.38,9.87,Urban
+Hindustan Unilever,Personal Care,Ayurvedic Products,North,Online,2023,3710.31,1.47,14.8,Urban
+ITC,Personal Care,Shampoo,South,Offline,2021,4493.32,14.67,11.11,Urban
+Colgate-Palmolive,Home Care,Beverages,South,Online,2025,2732.35,7.49,13.69,Urban
+Nestle India,Home Care,Biscuits,North,Offline,2022,1045.99,14.94,8.85,Rural
+Britannia,Personal Care,Oral Care,West,Online,2024,1539.58,7.54,14.54,Urban
+Nestle India,Health Care,Shampoo,West,Online,2023,5014.8,17.91,14.76,Rural
+ITC,Home Care,Beverages,West,Offline,2023,4246.69,2.04,5.37,Rural
+ITC,Home Care,Shampoo,West,Online,2025,3105.34,18.69,10.48,Rural
+Reliance Consumer,Home Care,Beverages,North,Offline,2022,1558.98,7.84,5.07,Rural
+Marico,Home Care,Insecticides,East,Offline,2025,2327.86,2.21,14.94,Urban
+Godrej Consumer,Health Care,Biscuits,South,Online,2021,4797.26,17.5,12.87,Urban
+Hindustan Unilever,Home Care,Hair Oil,North,Offline,2022,3962.77,9.6,13.21,Rural
+Dabur,Personal Care,Insecticides,North,Online,2021,1457.51,1.26,4.85,Urban
+Reliance Consumer,Food & Beverages,Insecticides,North,Online,2020,2174.61,17.35,12.12,Urban
+ITC,Food & Beverages,Beverages,North,Online,2020,3698.14,17.33,9.3,Urban
+Britannia,Food & Beverages,Shampoo,North,Offline,2024,1018.6,1.22,13.68,Rural
+Britannia,Health Care,Ayurvedic Products,South,Offline,2024,4166.68,8.8,13.35,Rural
+Reliance Consumer,Health Care,Ayurvedic Products,South,Online,2022,1861.17,4.75,4.11,Urban
+Patanjali,Health Care,Beverages,South,Offline,2025,2223.42,9.92,9.67,Rural
+ITC,Health Care,Oral Care,North,Online,2022,5267.67,10.6,11.29,Rural
+Dabur,Home Care,Beverages,West,Offline,2020,1003.32,18.11,3.07,Rural
+Nestle India,Home Care,Ayurvedic Products,East,Online,2023,1341.37,9.56,13.92,Rural
+Godrej Consumer,Food & Beverages,Bakery,East,Online,2022,1000.27,10.6,10.59,Urban
+Nestle India,Personal Care,Insecticides,East,Offline,2022,2751.42,8.79,3.75,Urban
+Britannia,Home Care,Ayurvedic Products,North,Offline,2024,1156.78,10.68,6.07,Urban
+Marico,Health Care,Biscuits,South,Offline,2023,1097.94,18.36,12.28,Rural
+Patanjali,Personal Care,Soap,North,Online,2023,4413.94,16.75,5.76,Urban
+Hindustan Unilever,Personal Care,Hair Oil,South,Offline,2020,4994.54,12.05,4.8,Urban
+Nestle India,Personal Care,Oral Care,East,Offline,2025,3015.5,3.13,9.55,Urban
+Patanjali,Food & Beverages,Bakery,South,Online,2022,3457.17,4.62,14.97,Urban
+Nestle India,Food & Beverages,Hair Oil,North,Online,2021,2845.08,16.68,3.66,Urban
+Hindustan Unilever,Personal Care,Noodles,South,Online,2022,2425.18,17.18,6.26,Urban
+Hindustan Unilever,Personal Care,Oral Care,South,Offline,2022,4622.49,17.86,6.86,Rural
+Nestle India,Home Care,Shampoo,South,Offline,2020,4795.98,4.49,10.43,Rural
+Godrej Consumer,Food & Beverages,Noodles,East,Online,2020,2438.32,5.33,11.93,Rural
+Britannia,Personal Care,Soap,East,Online,2023,4544.59,19.07,5.92,Urban
+Colgate-Palmolive,Food & Beverages,Shampoo,North,Offline,2025,4901.64,15.02,8.48,Urban
+Britannia,Home Care,Bakery,East,Offline,2025,5683.81,7.78,10.64,Rural
+ITC,Home Care,Ayurvedic Products,West,Offline,2021,897.71,16.07,11.02,Urban
+ITC,Personal Care,Oral Care,South,Offline,2025,5663.32,18.46,8.18,Urban
+Patanjali,Home Care,Ayurvedic Products,East,Online,2020,4342.79,7.44,4.75,Rural
+Nestle India,Health Care,Hair Oil,South,Offline,2022,2883.83,8.43,8.63,Urban
+Godrej Consumer,Home Care,Bakery,South,Offline,2023,779.92,12.9,5.31,Rural
+Godrej Consumer,Health Care,Biscuits,East,Online,2022,3961.37,13.16,12.91,Rural
+Britannia,Home Care,Oral Care,North,Online,2023,3101.7,8.77,5.94,Urban
+Hindustan Unilever,Health Care,Noodles,East,Offline,2025,3490.15,5.43,12.37,Urban
+Marico,Health Care,Shampoo,North,Offline,2025,3418.28,8.46,11.94,Urban
+Dabur,Food & Beverages,Insecticides,East,Offline,2025,3928.14,18.01,5.72,Rural
+Hindustan Unilever,Health Care,Biscuits,North,Online,2025,2182.16,8.24,6.69,Rural
+Britannia,Home Care,Insecticides,West,Offline,2022,977.74,10.52,5.97,Rural
+Dabur,Personal Care,Biscuits,East,Online,2020,3189.18,14.39,10.22,Rural
+Britannia,Health Care,Shampoo,North,Offline,2020,2857.04,10.93,8.31,Urban
+Hindustan Unilever,Health Care,Beverages,West,Offline,2024,1454.91,12.27,12.87,Rural
+Hindustan Unilever,Food & Beverages,Beverages,East,Online,2025,2827.28,6.74,9.4,Rural
+Patanjali,Personal Care,Beverages,East,Offline,2020,4657.23,4.47,3.15,Urban
+Nestle India,Home Care,Shampoo,North,Offline,2021,1767.54,11.44,9.61,Urban
+Hindustan Unilever,Home Care,Insecticides,South,Online,2025,1327.02,2.59,4.71,Rural
+Nestle India,Food & Beverages,Shampoo,West,Offline,2020,5205.9,2.1,5.8,Rural
+Marico,Home Care,Insecticides,West,Offline,2022,5825.05,12.22,6.29,Urban
+Britannia,Food & Beverages,Noodles,West,Online,2020,742.14,5.19,10.19,Rural
+Godrej Consumer,Food & Beverages,Noodles,East,Online,2024,1225.21,15.04,11.72,Urban
+ITC,Food & Beverages,Insecticides,West,Offline,2022,3934.36,18.1,4.79,Rural
+Hindustan Unilever,Food & Beverages,Oral Care,North,Offline,2025,4821.94,3.8,13.44,Urban
+Britannia,Personal Care,Soap,North,Online,2024,3950.58,19.32,11.23,Rural
+Colgate-Palmolive,Food & Beverages,Hair Oil,South,Online,2024,4775.02,9.82,3.45,Rural
+Britannia,Health Care,Beverages,South,Offline,2022,2603.36,12.85,8.77,Rural
+Nestle India,Home Care,Beverages,East,Offline,2025,1843.4,11.87,5.75,Urban
+Nestle India,Home Care,Bakery,North,Online,2023,4393.91,1.95,6.21,Rural
+Dabur,Home Care,Ayurvedic Products,North,Offline,2024,3452.89,15.75,13.43,Rural
+Nestle India,Home Care,Soap,East,Online,2024,800.82,11.3,9.73,Urban
+Britannia,Health Care,Ayurvedic Products,East,Online,2024,4258.25,9.91,3.83,Rural
+Colgate-Palmolive,Personal Care,Noodles,North,Online,2022,5224.75,12.32,10.79,Urban
+Reliance Consumer,Food & Beverages,Beverages,East,Online,2020,3203.65,19.76,4.31,Urban
+ITC,Personal Care,Insecticides,East,Online,2025,1111.52,14.54,4.26,Rural
+Hindustan Unilever,Home Care,Biscuits,West,Offline,2022,5119.89,15.04,7.93,Rural
+Hindustan Unilever,Home Care,Bakery,North,Offline,2022,2541.01,14.41,5.37,Urban
+Hindustan Unilever,Home Care,Biscuits,East,Offline,2021,1448.4,16.62,10.98,Rural
+Marico,Food & Beverages,Ayurvedic Products,South,Offline,2023,1446.98,16.93,4.67,Rural
+Hindustan Unilever,Personal Care,Biscuits,South,Offline,2020,1427.58,4.64,7.92,Urban
+Hindustan Unilever,Personal Care,Noodles,West,Offline,2022,2688.62,16.25,4.37,Urban
