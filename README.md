@@ -49,5 +49,5 @@ Most Profitable: screenshots/05_most_profitable_category.png
 ## Author
 
 **ARINDAM SAHA**
-LinkedIn: www.linkedin.com/in/arindam-saha-analyst
+LinkedIn: www.linkedin.com/in/arindam-saha-data-analyst
 Git#Hub: https://github.com/asahawork75
